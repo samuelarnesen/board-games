@@ -1,0 +1,125 @@
+body {
+  font-family: 'Helvetica Neue';
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+table {
+  margin: 0 auto;
+  border-spacing: 0px 0px;
+}
+
+#card {
+  background-color: #ffffff;
+}
+
+.nav {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  margin: 20px 20px;
+}
+
+.container {
+  margin-top: 5px;
+}
+
+.button {
+  background-color: #ffffff;
+  border: 2px solid black;
+  cursor: pointer;
+  font-size:18px;
+  max-width: 15rem;
+  max-height: 20px;
+  border-radius: 091597px;
+  margin-bottom: 25px;
+  text-align: center;
+  display: inline-block;
+  justify-content: space-around;
+  padding: .7em 1em;
+  margin: 0px 20px;
+  transition: background-color 0.5s, color 0.5s;
+
+}.green {
+  border-color: #8ed08b;
+  color: #8ed08b;
+}.blue {
+  border-color: #89bedc;
+  color: #89bedc;
+}
+
+.button.blue:hover {
+  background-color: #89bedc;
+  color: #303030;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.button.green:hover {
+  background-color: #8ed08b;
+  color: #303030;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+
+.cell {
+  height: 70px;
+  width: 70px;
+  background-color: #1990ff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.circle {
+  height: 15px;
+  width: 15px;
+  border: 1px solid #000;
+  border-radius: 100px;
+}
+
+.circles {
+  margin: -40px 0 25px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.red-sm {
+  background-color: red;
+}
+
+.yellow-sm {
+  background-color: yellow;
+}
+
+.message {
+  text-align: center;
+  font-size: 17px;
+}
+
+.white {
+  height: 60px;
+  width: 60px;
+  background-color: #FFF;
+  border-radius: 100px;
+}
+
+.red {
+  height: 60px;
+  width: 60px;
+  background-color: red;
+  border-radius: 100px;
+  transition: background-color 0.5s;
+}
+
+.yellow {
+  height: 60px;
+  width: 60px;
+  background-color: yellow;
+  border-radius: 100px;
+  transition: background-color 0.5s;
+}
