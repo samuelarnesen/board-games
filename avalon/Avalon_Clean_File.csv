@@ -1,0 +1,700 @@
+"","gamenum","Person","Side","Result","#","Good","Bad","Merlin","Percival","Morgana","R1","R2","R3","R4","R5","assassin","Winner","Notes"
+"1",1,"Harrison","Evil","Win",6,"LfMOzWa","HS","Matt",NA,"n/a","F","F","F",NA,NA,NA,"evil",NA
+"2",1,"LorenzoF","Good","Loss",6,"LfMOzWa","HS","Matt",NA,"n/a","F","F","F",NA,NA,NA,"evil",NA
+"3",1,"Matt","Good","Loss",6,"LfMOzWa","HS","Matt",NA,"n/a","F","F","F",NA,NA,NA,"evil",NA
+"4",1,"Ozan","Good","Loss",6,"LfMOzWa","HS","Matt",NA,"n/a","F","F","F",NA,NA,NA,"evil",NA
+"5",1,"Sam","Evil","Win",6,"LfMOzWa","HS","Matt",NA,"n/a","F","F","F",NA,NA,NA,"evil",NA
+"6",1,"WillA","Good","Loss",6,"LfMOzWa","HS","Matt",NA,"n/a","F","F","F",NA,NA,NA,"evil",NA
+"7",2,"Harrison","Good","Win",6,"HLfMS","OzWa","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"8",2,"LorenzoF","Good","Win",6,"HLfMS","OzWa","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"9",2,"Matt","Good","Win",6,"HLfMS","OzWa","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"10",2,"Ozan","Evil","Loss",6,"HLfMS","OzWa","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"11",2,"Sam","Good","Win",6,"HLfMS","OzWa","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"12",2,"WillA","Evil","Loss",6,"HLfMS","OzWa","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"13",3,"Harrison","Evil","Win",7,"JLfMWa","HOzS","Jenny","LorenzoF","Ozan","P","P","P",NA,NA,"success","evil",NA
+"14",3,"Jenny","Good","Loss",7,"JLfMWa","HOzS","Jenny","LorenzoF","Ozan","P","P","P",NA,NA,"success","evil",NA
+"15",3,"LorenzoF","Good","Loss",7,"JLfMWa","HOzS","Jenny","LorenzoF","Ozan","P","P","P",NA,NA,"success","evil",NA
+"16",3,"Matt","Good","Loss",7,"JLfMWa","HOzS","Jenny","LorenzoF","Ozan","P","P","P",NA,NA,"success","evil",NA
+"17",3,"Ozan","Evil","Win",7,"JLfMWa","HOzS","Jenny","LorenzoF","Ozan","P","P","P",NA,NA,"success","evil",NA
+"18",3,"Sam","Evil","Win",7,"JLfMWa","HOzS","Jenny","LorenzoF","Ozan","P","P","P",NA,NA,"success","evil",NA
+"19",3,"WillA","Good","Loss",7,"JLfMWa","HOzS","Jenny","LorenzoF","Ozan","P","P","P",NA,NA,"success","evil",NA
+"20",4,"Harrison","Good","Loss",7,"HLfOzWa","JMS","WillA","Ozan","Matt","P","F","F","P","F",NA,"evil",NA
+"21",4,"Jenny","Evil","Win",7,"HLfOzWa","JMS","WillA","Ozan","Matt","P","F","F","P","F",NA,"evil",NA
+"22",4,"LorenzoF","Good","Loss",7,"HLfOzWa","JMS","WillA","Ozan","Matt","P","F","F","P","F",NA,"evil",NA
+"23",4,"Matt","Evil","Win",7,"HLfOzWa","JMS","WillA","Ozan","Matt","P","F","F","P","F",NA,"evil",NA
+"24",4,"Ozan","Good","Loss",7,"HLfOzWa","JMS","WillA","Ozan","Matt","P","F","F","P","F",NA,"evil",NA
+"25",4,"Sam","Evil","Win",7,"HLfOzWa","JMS","WillA","Ozan","Matt","P","F","F","P","F",NA,"evil",NA
+"26",4,"WillA","Good","Loss",7,"HLfOzWa","JMS","WillA","Ozan","Matt","P","F","F","P","F",NA,"evil",NA
+"27",5,"Chris","Evil","Win",8,"HMOzSWa","CJLf","Matt","WillA","Chris","F","P","F","P","F",NA,"evil","Will is banned from being Percival"
+"28",5,"Harrison","Good","Loss",8,"HMOzSWa","CJLf","Matt","WillA","Chris","F","P","F","P","F",NA,"evil","Will is banned from being Percival"
+"29",5,"Jenny","Evil","Win",8,"HMOzSWa","CJLf","Matt","WillA","Chris","F","P","F","P","F",NA,"evil","Will is banned from being Percival"
+"30",5,"LorenzoF","Evil","Win",8,"HMOzSWa","CJLf","Matt","WillA","Chris","F","P","F","P","F",NA,"evil","Will is banned from being Percival"
+"31",5,"Matt","Good","Loss",8,"HMOzSWa","CJLf","Matt","WillA","Chris","F","P","F","P","F",NA,"evil","Will is banned from being Percival"
+"32",5,"Ozan","Good","Loss",8,"HMOzSWa","CJLf","Matt","WillA","Chris","F","P","F","P","F",NA,"evil","Will is banned from being Percival"
+"33",5,"Sam","Good","Loss",8,"HMOzSWa","CJLf","Matt","WillA","Chris","F","P","F","P","F",NA,"evil","Will is banned from being Percival"
+"34",5,"WillA","Good","Loss",8,"HMOzSWa","CJLf","Matt","WillA","Chris","F","P","F","P","F",NA,"evil","Will is banned from being Percival"
+"35",6,"Chris","Evil","Loss",8,"JHLfOzS","CMWa","Harrison","LorenzoF","Chris","P","P","P",NA,NA,"fail","good",NA
+"36",6,"Harrison","Good","Win",8,"JHLfOzS","CMWa","Harrison","LorenzoF","Chris","P","P","P",NA,NA,"fail","good",NA
+"37",6,"Jenny","Good","Win",8,"JHLfOzS","CMWa","Harrison","LorenzoF","Chris","P","P","P",NA,NA,"fail","good",NA
+"38",6,"LorenzoF","Good","Win",8,"JHLfOzS","CMWa","Harrison","LorenzoF","Chris","P","P","P",NA,NA,"fail","good",NA
+"39",6,"Matt","Evil","Loss",8,"JHLfOzS","CMWa","Harrison","LorenzoF","Chris","P","P","P",NA,NA,"fail","good",NA
+"40",6,"Ozan","Good","Win",8,"JHLfOzS","CMWa","Harrison","LorenzoF","Chris","P","P","P",NA,NA,"fail","good",NA
+"41",6,"Sam","Good","Win",8,"JHLfOzS","CMWa","Harrison","LorenzoF","Chris","P","P","P",NA,NA,"fail","good",NA
+"42",6,"WillA","Evil","Loss",8,"JHLfOzS","CMWa","Harrison","LorenzoF","Chris","P","P","P",NA,NA,"fail","good",NA
+"43",7,"Chris","Good","Win",8,"CHLfMOz","JSWa","Chris","LorenzoF","Jenny","P","P","P",NA,NA,"fail","good",NA
+"44",7,"Harrison","Good","Win",8,"CHLfMOz","JSWa","Chris","LorenzoF","Jenny","P","P","P",NA,NA,"fail","good",NA
+"45",7,"Jenny","Evil","Loss",8,"CHLfMOz","JSWa","Chris","LorenzoF","Jenny","P","P","P",NA,NA,"fail","good",NA
+"46",7,"LorenzoF","Good","Win",8,"CHLfMOz","JSWa","Chris","LorenzoF","Jenny","P","P","P",NA,NA,"fail","good",NA
+"47",7,"Matt","Good","Win",8,"CHLfMOz","JSWa","Chris","LorenzoF","Jenny","P","P","P",NA,NA,"fail","good",NA
+"48",7,"Ozan","Good","Win",8,"CHLfMOz","JSWa","Chris","LorenzoF","Jenny","P","P","P",NA,NA,"fail","good",NA
+"49",7,"Sam","Evil","Loss",8,"CHLfMOz","JSWa","Chris","LorenzoF","Jenny","P","P","P",NA,NA,"fail","good",NA
+"50",7,"WillA","Evil","Loss",8,"CHLfMOz","JSWa","Chris","LorenzoF","Jenny","P","P","P",NA,NA,"fail","good",NA
+"51",8,"Chris","Good","Win",8,"CJMOzWa","HLfS","Chris","WillA","Harrison","F","P","P","P",NA,"fail","good",NA
+"52",8,"Harrison","Evil","Loss",8,"CJMOzWa","HLfS","Chris","WillA","Harrison","F","P","P","P",NA,"fail","good",NA
+"53",8,"Jenny","Good","Win",8,"CJMOzWa","HLfS","Chris","WillA","Harrison","F","P","P","P",NA,"fail","good",NA
+"54",8,"LorenzoF","Evil","Loss",8,"CJMOzWa","HLfS","Chris","WillA","Harrison","F","P","P","P",NA,"fail","good",NA
+"55",8,"Matt","Good","Win",8,"CJMOzWa","HLfS","Chris","WillA","Harrison","F","P","P","P",NA,"fail","good",NA
+"56",8,"Ozan","Good","Win",8,"CJMOzWa","HLfS","Chris","WillA","Harrison","F","P","P","P",NA,"fail","good",NA
+"57",8,"Sam","Evil","Loss",8,"CJMOzWa","HLfS","Chris","WillA","Harrison","F","P","P","P",NA,"fail","good",NA
+"58",8,"WillA","Good","Win",8,"CJMOzWa","HLfS","Chris","WillA","Harrison","F","P","P","P",NA,"fail","good",NA
+"59",9,"Chris","Evil","Loss",8,"JLfMOzS","CHWa","Matt","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"60",9,"Harrison","Evil","Loss",8,"JLfMOzS","CHWa","Matt","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"61",9,"Jenny","Good","Win",8,"JLfMOzS","CHWa","Matt","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"62",9,"LorenzoF","Good","Win",8,"JLfMOzS","CHWa","Matt","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"63",9,"Matt","Good","Win",8,"JLfMOzS","CHWa","Matt","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"64",9,"Ozan","Good","Win",8,"JLfMOzS","CHWa","Matt","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"65",9,"Sam","Good","Win",8,"JLfMOzS","CHWa","Matt","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"66",9,"WillA","Evil","Loss",8,"JLfMOzS","CHWa","Matt","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"67",10,"Chris","Evil","Win",8,"HLfMOzWa","CJS","WillA","Harrison","Chris","P","P","P",NA,NA,"success","evil",NA
+"68",10,"Harrison","Good","Loss",8,"HLfMOzWa","CJS","WillA","Harrison","Chris","P","P","P",NA,NA,"success","evil",NA
+"69",10,"Jenny","Evil","Win",8,"HLfMOzWa","CJS","WillA","Harrison","Chris","P","P","P",NA,NA,"success","evil",NA
+"70",10,"LorenzoF","Good","Loss",8,"HLfMOzWa","CJS","WillA","Harrison","Chris","P","P","P",NA,NA,"success","evil",NA
+"71",10,"Matt","Good","Loss",8,"HLfMOzWa","CJS","WillA","Harrison","Chris","P","P","P",NA,NA,"success","evil",NA
+"72",10,"Ozan","Good","Loss",8,"HLfMOzWa","CJS","WillA","Harrison","Chris","P","P","P",NA,NA,"success","evil",NA
+"73",10,"Sam","Evil","Win",8,"HLfMOzWa","CJS","WillA","Harrison","Chris","P","P","P",NA,NA,"success","evil",NA
+"74",10,"WillA","Good","Loss",8,"HLfMOzWa","CJS","WillA","Harrison","Chris","P","P","P",NA,NA,"success","evil",NA
+"75",11,"Chris","Good","Loss",8,"CHLfMS","JOzWa","Harrison","Sam","Ozan","F","F","P","P","P","success","evil",NA
+"76",11,"Harrison","Good","Loss",8,"CHLfMS","JOzWa","Harrison","Sam","Ozan","F","F","P","P","P","success","evil",NA
+"77",11,"Jenny","Evil","Win",8,"CHLfMS","JOzWa","Harrison","Sam","Ozan","F","F","P","P","P","success","evil",NA
+"78",11,"LorenzoF","Good","Loss",8,"CHLfMS","JOzWa","Harrison","Sam","Ozan","F","F","P","P","P","success","evil",NA
+"79",11,"Matt","Good","Loss",8,"CHLfMS","JOzWa","Harrison","Sam","Ozan","F","F","P","P","P","success","evil",NA
+"80",11,"Ozan","Evil","Win",8,"CHLfMS","JOzWa","Harrison","Sam","Ozan","F","F","P","P","P","success","evil",NA
+"81",11,"Sam","Good","Loss",8,"CHLfMS","JOzWa","Harrison","Sam","Ozan","F","F","P","P","P","success","evil",NA
+"82",11,"WillA","Evil","Win",8,"CHLfMS","JOzWa","Harrison","Sam","Ozan","F","F","P","P","P","success","evil",NA
+"83",12,"WillA","Evil","Win",5,"LfMOz","SWa","LorenzoF",NA,"n/a","P","F","P","F","P",NA,"evil",NA
+"84",12,"Sam","Evil","Win",5,"LfMOz","SWa","LorenzoF",NA,"n/a","P","F","P","F","P",NA,"evil",NA
+"85",12,"Ozan","Good","Loss",5,"LfMOz","SWa","LorenzoF",NA,"n/a","P","F","P","F","P",NA,"evil",NA
+"86",12,"LorenzoF","Good","Loss",5,"LfMOz","SWa","LorenzoF",NA,"n/a","P","F","P","F","P",NA,"evil",NA
+"87",12,"Matt","Good","Loss",5,"LfMOz","SWa","LorenzoF",NA,"n/a","P","F","P","F","P",NA,"evil",NA
+"88",13,"Matt","Good","Loss",6,"MOzWaWc","LfS","WillA",NA,"n/a","P","F","F","P","P","success","evil",NA
+"89",13,"WillA","Good","Loss",6,"MOzWaWc","LfS","WillA",NA,"n/a","P","F","F","P","P","success","evil",NA
+"90",13,"WillC","Good","Loss",6,"MOzWaWc","LfS","WillA",NA,"n/a","P","F","F","P","P","success","evil",NA
+"91",13,"Ozan","Good","Loss",6,"MOzWaWc","LfS","WillA",NA,"n/a","P","F","F","P","P","success","evil",NA
+"92",13,"LorenzoF","Evil","Win",6,"MOzWaWc","LfS","WillA",NA,"n/a","P","F","F","P","P","success","evil",NA
+"93",13,"Sam","Evil","Win",6,"MOzWaWc","LfS","WillA",NA,"n/a","P","F","F","P","P","success","evil",NA
+"94",14,"Matt","Good","Loss",6,"LfMOzWa","SWc","WillA",NA,"n/a","P","F","F","P","P","success","evil",NA
+"95",14,"WillA","Good","Loss",6,"LfMOzWa","SWc","WillA",NA,"n/a","P","F","F","P","P","success","evil",NA
+"96",14,"WillC","Evil","Win",6,"LfMOzWa","SWc","WillA",NA,"n/a","P","F","F","P","P","success","evil",NA
+"97",14,"Ozan","Good","Loss",6,"LfMOzWa","SWc","WillA",NA,"n/a","P","F","F","P","P","success","evil",NA
+"98",14,"LorenzoF","Good","Loss",6,"LfMOzWa","SWc","WillA",NA,"n/a","P","F","F","P","P","success","evil",NA
+"99",14,"Sam","Evil","Win",6,"LfMOzWa","SWc","WillA",NA,"n/a","P","F","F","P","P","success","evil",NA
+"100",15,"Matt","Evil","Loss",7,"LfOzSWa","LdMOs","WillA","Sam","Osmond","F","P","F","P","P","fail","good",NA
+"101",15,"Lorenzod","Evil","Loss",7,"LfOzSWa","LdMOs","WillA","Sam","Osmond","F","P","F","P","P","fail","good",NA
+"102",15,"LorenzoF","Good","Win",7,"LfOzSWa","LdMOs","WillA","Sam","Osmond","F","P","F","P","P","fail","good",NA
+"103",15,"WillA","Good","Win",7,"LfOzSWa","LdMOs","WillA","Sam","Osmond","F","P","F","P","P","fail","good",NA
+"104",15,"Osmond","Evil","Loss",7,"LfOzSWa","LdMOs","WillA","Sam","Osmond","F","P","F","P","P","fail","good",NA
+"105",15,"Sam","Good","Win",7,"LfOzSWa","LdMOs","WillA","Sam","Osmond","F","P","F","P","P","fail","good",NA
+"106",15,"Ozan","Good","Win",7,"LfOzSWa","LdMOs","WillA","Sam","Osmond","F","P","F","P","P","fail","good",NA
+"107",16,"Matt","Evil","Win",9,"JLdLfOsWaWc","MOzS","WillC","LorenzoF","Sam","P","P","P",NA,NA,"success","evil",NA
+"108",16,"Lorenzod","Good","Loss",9,"JLdLfOsWaWc","MOzS","WillC","LorenzoF","Sam","P","P","P",NA,NA,"success","evil",NA
+"109",16,"LorenzoF","Good","Loss",9,"JLdLfOsWaWc","MOzS","WillC","LorenzoF","Sam","P","P","P",NA,NA,"success","evil",NA
+"110",16,"WillA","Good","Loss",9,"JLdLfOsWaWc","MOzS","WillC","LorenzoF","Sam","P","P","P",NA,NA,"success","evil",NA
+"111",16,"Osmond","Good","Loss",9,"JLdLfOsWaWc","MOzS","WillC","LorenzoF","Sam","P","P","P",NA,NA,"success","evil",NA
+"112",16,"Sam","Evil","Win",9,"JLdLfOsWaWc","MOzS","WillC","LorenzoF","Sam","P","P","P",NA,NA,"success","evil",NA
+"113",16,"Ozan","Evil","Win",9,"JLdLfOsWaWc","MOzS","WillC","LorenzoF","Sam","P","P","P",NA,NA,"success","evil",NA
+"114",16,"WillC","Good","Loss",9,"JLdLfOsWaWc","MOzS","WillC","LorenzoF","Sam","P","P","P",NA,NA,"success","evil",NA
+"115",16,"Jenny","Good","Loss",9,"JLdLfOsWaWc","MOzS","WillC","LorenzoF","Sam","P","P","P",NA,NA,"success","evil",NA
+"116",17,"Matt","Good","Win",9,"JLdMOsOzS","LfWaWc","Osmond","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"117",17,"Lorenzod","Good","Win",9,"JLdMOsOzS","LfWaWc","Osmond","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"118",17,"LorenzoF","Evil","Loss",9,"JLdMOsOzS","LfWaWc","Osmond","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"119",17,"WillA","Evil","Loss",9,"JLdMOsOzS","LfWaWc","Osmond","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"120",17,"Osmond","Good","Win",9,"JLdMOsOzS","LfWaWc","Osmond","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"121",17,"Sam","Good","Win",9,"JLdMOsOzS","LfWaWc","Osmond","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"122",17,"Ozan","Good","Win",9,"JLdMOsOzS","LfWaWc","Osmond","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"123",17,"WillC","Evil","Loss",9,"JLdMOsOzS","LfWaWc","Osmond","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"124",17,"Jenny","Good","Win",9,"JLdMOsOzS","LfWaWc","Osmond","Ozan","WillA","F","F","P","P","P","fail","good",NA
+"125",18,"Matt","Evil","Win",8,"JLfOsOzWc","LdMS","Ozan","WillC","Ld","F","P","P","P",NA,"success","evil",NA
+"126",18,"Lorenzod","Evil","Win",8,"JLfOsOzWc","LdMS","Ozan","WillC","Ld","F","P","P","P",NA,"success","evil",NA
+"127",18,"LorenzoF","Good","Loss",8,"JLfOsOzWc","LdMS","Ozan","WillC","Ld","F","P","P","P",NA,"success","evil",NA
+"128",18,"Osmond","Good","Loss",8,"JLfOsOzWc","LdMS","Ozan","WillC","Ld","F","P","P","P",NA,"success","evil",NA
+"129",18,"Sam","Evil","Win",8,"JLfOsOzWc","LdMS","Ozan","WillC","Ld","F","P","P","P",NA,"success","evil",NA
+"130",18,"Ozan","Good","Loss",8,"JLfOsOzWc","LdMS","Ozan","WillC","Ld","F","P","P","P",NA,"success","evil",NA
+"131",18,"WillC","Good","Loss",8,"JLfOsOzWc","LdMS","Ozan","WillC","Ld","F","P","P","P",NA,"success","evil",NA
+"132",18,"Jenny","Good","Loss",8,"JLfOsOzWc","LdMS","Ozan","WillC","Ld","F","P","P","P",NA,"success","evil",NA
+"133",19,"Matt","Good","Loss",7,"JMOsWc","LfOzS","Osmond","WillC","Sam","P","F","F","P","F",NA,"evil","sam morgana percival-declared and matt bought it"
+"134",19,"LorenzoF","Evil","Win",7,"JMOsWc","LfOzS","Osmond","WillC","Sam","P","F","F","P","F",NA,"evil","sam morgana percival-declared and matt bought it"
+"135",19,"Osmond","Good","Loss",7,"JMOsWc","LfOzS","Osmond","WillC","Sam","P","F","F","P","F",NA,"evil","sam morgana percival-declared and matt bought it"
+"136",19,"Sam","Evil","Win",7,"JMOsWc","LfOzS","Osmond","WillC","Sam","P","F","F","P","F",NA,"evil","sam morgana percival-declared and matt bought it"
+"137",19,"Ozan","Evil","Win",7,"JMOsWc","LfOzS","Osmond","WillC","Sam","P","F","F","P","F",NA,"evil","sam morgana percival-declared and matt bought it"
+"138",19,"WillC","Good","Loss",7,"JMOsWc","LfOzS","Osmond","WillC","Sam","P","F","F","P","F",NA,"evil","sam morgana percival-declared and matt bought it"
+"139",19,"Jenny","Good","Loss",7,"JMOsWc","LfOzS","Osmond","WillC","Sam","P","F","F","P","F",NA,"evil","sam morgana percival-declared and matt bought it"
+"140",20,"Matt","Good","Loss",7,"JMSWa","HOzSh","Sam","WillA","Ozan","P","F","F","F",NA,NA,"evil","will misread merlin/morgana"
+"141",20,"Jenny","Good","Loss",7,"JMSWa","HOzSh","Sam","WillA","Ozan","P","F","F","F",NA,NA,"evil","will misread merlin/morgana"
+"142",20,"Ozan","Evil","Win",7,"JMSWa","HOzSh","Sam","WillA","Ozan","P","F","F","F",NA,NA,"evil","will misread merlin/morgana"
+"143",20,"Shruti","Evil","Win",7,"JMSWa","HOzSh","Sam","WillA","Ozan","P","F","F","F",NA,NA,"evil","will misread merlin/morgana"
+"144",20,"Harrison","Evil","Win",7,"JMSWa","HOzSh","Sam","WillA","Ozan","P","F","F","F",NA,NA,"evil","will misread merlin/morgana"
+"145",20,"WillA","Good","Loss",7,"JMSWa","HOzSh","Sam","WillA","Ozan","P","F","F","F",NA,NA,"evil","will misread merlin/morgana"
+"146",20,"Sam","Good","Loss",7,"JMSWa","HOzSh","Sam","WillA","Ozan","P","F","F","F",NA,NA,"evil","will misread merlin/morgana"
+"147",21,"Matt","Evil","Win",7,"JOzSWa","HMSh","WillA","Sam","Shruti","P","F","F","P","P","success","evil",NA
+"148",21,"Jenny","Good","Loss",7,"JOzSWa","HMSh","WillA","Sam","Shruti","P","F","F","P","P","success","evil",NA
+"149",21,"Ozan","Good","Loss",7,"JOzSWa","HMSh","WillA","Sam","Shruti","P","F","F","P","P","success","evil",NA
+"150",21,"Shruti","Evil","Win",7,"JOzSWa","HMSh","WillA","Sam","Shruti","P","F","F","P","P","success","evil",NA
+"151",21,"Harrison","Evil","Win",7,"JOzSWa","HMSh","WillA","Sam","Shruti","P","F","F","P","P","success","evil",NA
+"152",21,"WillA","Good","Loss",7,"JOzSWa","HMSh","WillA","Sam","Shruti","P","F","F","P","P","success","evil",NA
+"153",21,"Sam","Good","Loss",7,"JOzSWa","HMSh","WillA","Sam","Shruti","P","F","F","P","P","success","evil",NA
+"154",22,"Matt","Good","Loss",7,"MOzSWa","HJSh","Sam","Matt","Jenny","P","F","P","F","P","success","evil",NA
+"155",22,"Jenny","Evil","Win",7,"MOzSWa","HJSh","Sam","Matt","Jenny","P","F","P","F","P","success","evil",NA
+"156",22,"Ozan","Good","Loss",7,"MOzSWa","HJSh","Sam","Matt","Jenny","P","F","P","F","P","success","evil",NA
+"157",22,"Shruti","Evil","Win",7,"MOzSWa","HJSh","Sam","Matt","Jenny","P","F","P","F","P","success","evil",NA
+"158",22,"Harrison","Evil","Win",7,"MOzSWa","HJSh","Sam","Matt","Jenny","P","F","P","F","P","success","evil",NA
+"159",22,"WillA","Good","Loss",7,"MOzSWa","HJSh","Sam","Matt","Jenny","P","F","P","F","P","success","evil",NA
+"160",22,"Sam","Good","Loss",7,"MOzSWa","HJSh","Sam","Matt","Jenny","P","F","P","F","P","success","evil",NA
+"161",23,"Matt","Evil","Loss",6,"JSShWa","HM","Sam",NA,"n/a","F","P","P","P",NA,"fail","good",NA
+"162",23,"Jenny","Good","Win",6,"JSShWa","HM","Sam",NA,"n/a","F","P","P","P",NA,"fail","good",NA
+"163",23,"Shruti","Good","Win",6,"JSShWa","HM","Sam",NA,"n/a","F","P","P","P",NA,"fail","good",NA
+"164",23,"Harrison","Evil","Loss",6,"JSShWa","HM","Sam",NA,"n/a","F","P","P","P",NA,"fail","good",NA
+"165",23,"WillA","Good","Win",6,"JSShWa","HM","Sam",NA,"n/a","F","P","P","P",NA,"fail","good",NA
+"166",23,"Sam","Good","Win",6,"JSShWa","HM","Sam",NA,"n/a","F","P","P","P",NA,"fail","good",NA
+"167",24,"Matt","Good","Loss",6,"JMShWa","HS","Matt",NA,"n/a","P","F","F","F",NA,NA,"evil","i dont wanna talk about it"
+"168",24,"WillA","Good","Loss",6,"JMShWa","HS","Matt",NA,"n/a","P","F","F","F",NA,NA,"evil","i dont wanna talk about it"
+"169",24,"Shruti","Good","Loss",6,"JMShWa","HS","Matt",NA,"n/a","P","F","F","F",NA,NA,"evil","i dont wanna talk about it"
+"170",24,"Jenny","Good","Loss",6,"JMShWa","HS","Matt",NA,"n/a","P","F","F","F",NA,NA,"evil","i dont wanna talk about it"
+"171",24,"Sam","Evil","Win",6,"JMShWa","HS","Matt",NA,"n/a","P","F","F","F",NA,NA,"evil","i dont wanna talk about it"
+"172",24,"Harrison","Evil","Win",6,"JMShWa","HS","Matt",NA,"n/a","P","F","F","F",NA,NA,"evil","i dont wanna talk about it"
+"173",25,"Matt","Good","Win",6,"LfMShWa","SSy","LorenzoF",NA,"n/a","P","P","P",NA,NA,"fail","good",NA
+"174",25,"Shreyas","Evil","Loss",6,"LfMShWa","SSy","LorenzoF",NA,"n/a","P","P","P",NA,NA,"fail","good",NA
+"175",25,"WillA","Good","Win",6,"LfMShWa","SSy","LorenzoF",NA,"n/a","P","P","P",NA,NA,"fail","good",NA
+"176",25,"Sam","Evil","Loss",6,"LfMShWa","SSy","LorenzoF",NA,"n/a","P","P","P",NA,NA,"fail","good",NA
+"177",25,"Shruti","Good","Win",6,"LfMShWa","SSy","LorenzoF",NA,"n/a","P","P","P",NA,NA,"fail","good",NA
+"178",25,"LorenzoF","Good","Win",6,"LfMShWa","SSy","LorenzoF",NA,"n/a","P","P","P",NA,NA,"fail","good",NA
+"179",26,"Matt","Evil","Win",6,"LfSSyWa","MSh","Sam",NA,"n/a","P","F","F","P","P","success","evil",NA
+"180",26,"Shreyas","Good","Loss",6,"LfSSyWa","MSh","Sam",NA,"n/a","P","F","F","P","P","success","evil",NA
+"181",26,"WillA","Good","Loss",6,"LfSSyWa","MSh","Sam",NA,"n/a","P","F","F","P","P","success","evil",NA
+"182",26,"Sam","Good","Loss",6,"LfSSyWa","MSh","Sam",NA,"n/a","P","F","F","P","P","success","evil",NA
+"183",26,"Shruti","Evil","Win",6,"LfSSyWa","MSh","Sam",NA,"n/a","P","F","F","P","P","success","evil",NA
+"184",26,"LorenzoF","Good","Loss",6,"LfSSyWa","MSh","Sam",NA,"n/a","P","F","F","P","P","success","evil",NA
+"185",27,"Matt","Good","Win",7,"HMSSh","LfSyWa","Shruti","Sam","Shreyas","P","F","F","P","P","fail","good",NA
+"186",27,"Shreyas","Evil","Loss",7,"HMSSh","LfSyWa","Shruti","Sam","Shreyas","P","F","F","P","P","fail","good",NA
+"187",27,"WillA","Evil","Loss",7,"HMSSh","LfSyWa","Shruti","Sam","Shreyas","P","F","F","P","P","fail","good",NA
+"188",27,"Sam","Good","Win",7,"HMSSh","LfSyWa","Shruti","Sam","Shreyas","P","F","F","P","P","fail","good",NA
+"189",27,"Shruti","Good","Win",7,"HMSSh","LfSyWa","Shruti","Sam","Shreyas","P","F","F","P","P","fail","good",NA
+"190",27,"LorenzoF","Evil","Loss",7,"HMSSh","LfSyWa","Shruti","Sam","Shreyas","P","F","F","P","P","fail","good",NA
+"191",27,"Harrison","Good","Win",7,"HMSSh","LfSyWa","Shruti","Sam","Shreyas","P","F","F","P","P","fail","good",NA
+"192",28,"Matt","Evil","Win",7,"HLfSSy","MShWa","Sam","LorenzoF","Shruti","F","F","P","P","P","success","evil",NA
+"193",28,"Shreyas","Good","Loss",7,"HLfSSy","MShWa","Sam","LorenzoF","Shruti","F","F","P","P","P","success","evil",NA
+"194",28,"WillA","Evil","Win",7,"HLfSSy","MShWa","Sam","LorenzoF","Shruti","F","F","P","P","P","success","evil",NA
+"195",28,"Sam","Good","Loss",7,"HLfSSy","MShWa","Sam","LorenzoF","Shruti","F","F","P","P","P","success","evil",NA
+"196",28,"Shruti","Evil","Win",7,"HLfSSy","MShWa","Sam","LorenzoF","Shruti","F","F","P","P","P","success","evil",NA
+"197",28,"LorenzoF","Good","Loss",7,"HLfSSy","MShWa","Sam","LorenzoF","Shruti","F","F","P","P","P","success","evil",NA
+"198",28,"Harrison","Good","Loss",7,"HLfSSy","MShWa","Sam","LorenzoF","Shruti","F","F","P","P","P","success","evil",NA
+"199",29,"Matt","Evil","Loss",7,"SShSyWa","HLfM","Shruti","Shreyas","Matt","P","F","F","P","P","fail","good",NA
+"200",29,"Shreyas","Good","Win",7,"SShSyWa","HLfM","Shruti","Shreyas","Matt","P","F","F","P","P","fail","good",NA
+"201",29,"WillA","Good","Win",7,"SShSyWa","HLfM","Shruti","Shreyas","Matt","P","F","F","P","P","fail","good",NA
+"202",29,"Sam","Good","Win",7,"SShSyWa","HLfM","Shruti","Shreyas","Matt","P","F","F","P","P","fail","good",NA
+"203",29,"Shruti","Good","Win",7,"SShSyWa","HLfM","Shruti","Shreyas","Matt","P","F","F","P","P","fail","good",NA
+"204",29,"LorenzoF","Evil","Loss",7,"SShSyWa","HLfM","Shruti","Shreyas","Matt","P","F","F","P","P","fail","good",NA
+"205",29,"Harrison","Evil","Loss",7,"SShSyWa","HLfM","Shruti","Shreyas","Matt","P","F","F","P","P","fail","good",NA
+"206",30,"Matt","Good","Win",7,"HLfMSh","SSyWa","Matt","Harrison","Shreyas","P","F","P","P",NA,"fail","good",NA
+"207",30,"Shreyas","Evil","Loss",7,"HLfMSh","SSyWa","Matt","Harrison","Shreyas","P","F","P","P",NA,"fail","good",NA
+"208",30,"WillA","Evil","Loss",7,"HLfMSh","SSyWa","Matt","Harrison","Shreyas","P","F","P","P",NA,"fail","good",NA
+"209",30,"Sam","Evil","Loss",7,"HLfMSh","SSyWa","Matt","Harrison","Shreyas","P","F","P","P",NA,"fail","good",NA
+"210",30,"Shruti","Good","Win",7,"HLfMSh","SSyWa","Matt","Harrison","Shreyas","P","F","P","P",NA,"fail","good",NA
+"211",30,"LorenzoF","Good","Win",7,"HLfMSh","SSyWa","Matt","Harrison","Shreyas","P","F","P","P",NA,"fail","good",NA
+"212",30,"Harrison","Good","Win",7,"HLfMSh","SSyWa","Matt","Harrison","Shreyas","P","F","P","P",NA,"fail","good",NA
+"213",31,"Matt","Good","Loss",7,"LfMSSy","HShWa","Matt","Shreyas","Harrison","P","F","F","P","F",NA,"evil",NA
+"214",31,"Shreyas","Good","Loss",7,"LfMSSy","HShWa","Matt","Shreyas","Harrison","P","F","F","P","F",NA,"evil",NA
+"215",31,"WillA","Evil","Win",7,"LfMSSy","HShWa","Matt","Shreyas","Harrison","P","F","F","P","F",NA,"evil",NA
+"216",31,"Sam","Good","Loss",7,"LfMSSy","HShWa","Matt","Shreyas","Harrison","P","F","F","P","F",NA,"evil",NA
+"217",31,"Shruti","Evil","Win",7,"LfMSSy","HShWa","Matt","Shreyas","Harrison","P","F","F","P","F",NA,"evil",NA
+"218",31,"LorenzoF","Good","Loss",7,"LfMSSy","HShWa","Matt","Shreyas","Harrison","P","F","F","P","F",NA,"evil",NA
+"219",31,"Harrison","Evil","Win",7,"LfMSSy","HShWa","Matt","Shreyas","Harrison","P","F","F","P","F",NA,"evil",NA
+"220",32,"Matt","Good","Win",7,"LfMSSh","HSyWa","Sam","Matt","Harrison","P","F","F","P","P","fail","good",NA
+"221",32,"Shreyas","Evil","Loss",7,"LfMSSh","HSyWa","Sam","Matt","Harrison","P","F","F","P","P","fail","good",NA
+"222",32,"WillA","Evil","Loss",7,"LfMSSh","HSyWa","Sam","Matt","Harrison","P","F","F","P","P","fail","good",NA
+"223",32,"Sam","Good","Win",7,"LfMSSh","HSyWa","Sam","Matt","Harrison","P","F","F","P","P","fail","good",NA
+"224",32,"Shruti","Good","Win",7,"LfMSSh","HSyWa","Sam","Matt","Harrison","P","F","F","P","P","fail","good",NA
+"225",32,"LorenzoF","Good","Win",7,"LfMSSh","HSyWa","Sam","Matt","Harrison","P","F","F","P","P","fail","good",NA
+"226",32,"Harrison","Evil","Loss",7,"LfMSSh","HSyWa","Sam","Matt","Harrison","P","F","F","P","P","fail","good",NA
+"227",33,"Matt","Evil","Loss",7,"LfSyWaX","MSSh","Xavier","Shreyas","Sam","P","F","F","P","P","fail","good",NA
+"228",33,"Shreyas","Good","Win",7,"LfSyWaX","MSSh","Xavier","Shreyas","Sam","P","F","F","P","P","fail","good",NA
+"229",33,"WillA","Good","Win",7,"LfSyWaX","MSSh","Xavier","Shreyas","Sam","P","F","F","P","P","fail","good",NA
+"230",33,"Sam","Evil","Loss",7,"LfSyWaX","MSSh","Xavier","Shreyas","Sam","P","F","F","P","P","fail","good",NA
+"231",33,"Shruti","Evil","Loss",7,"LfSyWaX","MSSh","Xavier","Shreyas","Sam","P","F","F","P","P","fail","good",NA
+"232",33,"LorenzoF","Good","Win",7,"LfSyWaX","MSSh","Xavier","Shreyas","Sam","P","F","F","P","P","fail","good",NA
+"233",33,"Xavier","Good","Win",7,"LfSyWaX","MSSh","Xavier","Shreyas","Sam","P","F","F","P","P","fail","good",NA
+"234",34,"Matt","Good","Loss",7,"MSWaX","LfShSy","Matt","Sam","Shruti","P","F","F","P","P","success","evil",NA
+"235",34,"Shreyas","Evil","Win",7,"MSWaX","LfShSy","Matt","Sam","Shruti","P","F","F","P","P","success","evil",NA
+"236",34,"WillA","Good","Loss",7,"MSWaX","LfShSy","Matt","Sam","Shruti","P","F","F","P","P","success","evil",NA
+"237",34,"Sam","Good","Loss",7,"MSWaX","LfShSy","Matt","Sam","Shruti","P","F","F","P","P","success","evil",NA
+"238",34,"Shruti","Evil","Win",7,"MSWaX","LfShSy","Matt","Sam","Shruti","P","F","F","P","P","success","evil",NA
+"239",34,"LorenzoF","Evil","Win",7,"MSWaX","LfShSy","Matt","Sam","Shruti","P","F","F","P","P","success","evil",NA
+"240",34,"Xavier","Good","Loss",7,"MSWaX","LfShSy","Matt","Sam","Shruti","P","F","F","P","P","success","evil",NA
+"241",35,"Matt","Evil","Win",7,"LfSSyX","MShWa","LorenzoF","Sam","Shruti","P","F","F","F",NA,NA,"evil",NA
+"242",35,"Shreyas","Good","Loss",7,"LfSSyX","MShWa","LorenzoF","Sam","Shruti","P","F","F","F",NA,NA,"evil",NA
+"243",35,"WillA","Evil","Win",7,"LfSSyX","MShWa","LorenzoF","Sam","Shruti","P","F","F","F",NA,NA,"evil",NA
+"244",35,"Sam","Good","Loss",7,"LfSSyX","MShWa","LorenzoF","Sam","Shruti","P","F","F","F",NA,NA,"evil",NA
+"245",35,"Shruti","Evil","Win",7,"LfSSyX","MShWa","LorenzoF","Sam","Shruti","P","F","F","F",NA,NA,"evil",NA
+"246",35,"LorenzoF","Good","Loss",7,"LfSSyX","MShWa","LorenzoF","Sam","Shruti","P","F","F","F",NA,NA,"evil",NA
+"247",35,"Xavier","Good","Loss",7,"LfSSyX","MShWa","LorenzoF","Sam","Shruti","P","F","F","F",NA,NA,"evil",NA
+"248",36,"Matt","Good","Win",7,"LfMSSh","SyWaX","Shruti","LorenzoF","Xavier","P","P","F","P",NA,"fail","good","shreyas forgot to double fail m4"
+"249",36,"Shreyas","Evil","Loss",7,"LfMSSh","SyWaX","Shruti","LorenzoF","Xavier","P","P","F","P",NA,"fail","good","shreyas forgot to double fail m4"
+"250",36,"WillA","Evil","Loss",7,"LfMSSh","SyWaX","Shruti","LorenzoF","Xavier","P","P","F","P",NA,"fail","good","shreyas forgot to double fail m4"
+"251",36,"Sam","Good","Win",7,"LfMSSh","SyWaX","Shruti","LorenzoF","Xavier","P","P","F","P",NA,"fail","good","shreyas forgot to double fail m4"
+"252",36,"Shruti","Good","Win",7,"LfMSSh","SyWaX","Shruti","LorenzoF","Xavier","P","P","F","P",NA,"fail","good","shreyas forgot to double fail m4"
+"253",36,"LorenzoF","Good","Win",7,"LfMSSh","SyWaX","Shruti","LorenzoF","Xavier","P","P","F","P",NA,"fail","good","shreyas forgot to double fail m4"
+"254",36,"Xavier","Evil","Loss",7,"LfMSSh","SyWaX","Shruti","LorenzoF","Xavier","P","P","F","P",NA,"fail","good","shreyas forgot to double fail m4"
+"255",37,"Matt","Good","Loss",7,"MSSyWa","LfShX","Sam","Matt","LorenzoF","P","P","P",NA,NA,"success","evil",NA
+"256",37,"Shreyas","Good","Loss",7,"MSSyWa","LfShX","Sam","Matt","LorenzoF","P","P","P",NA,NA,"success","evil",NA
+"257",37,"WillA","Good","Loss",7,"MSSyWa","LfShX","Sam","Matt","LorenzoF","P","P","P",NA,NA,"success","evil",NA
+"258",37,"Sam","Good","Loss",7,"MSSyWa","LfShX","Sam","Matt","LorenzoF","P","P","P",NA,NA,"success","evil",NA
+"259",37,"Shruti","Evil","Win",7,"MSSyWa","LfShX","Sam","Matt","LorenzoF","P","P","P",NA,NA,"success","evil",NA
+"260",37,"LorenzoF","Evil","Win",7,"MSSyWa","LfShX","Sam","Matt","LorenzoF","P","P","P",NA,NA,"success","evil",NA
+"261",37,"Xavier","Evil","Win",7,"MSSyWa","LfShX","Sam","Matt","LorenzoF","P","P","P",NA,NA,"success","evil",NA
+"262",38,"Matt","Evil","Win",7,"LfShWaX","MSSy","Xavier","Shruti","Sam","P","P","P",NA,NA,"success","evil",NA
+"263",38,"Shreyas","Evil","Win",7,"LfShWaX","MSSy","Xavier","Shruti","Sam","P","P","P",NA,NA,"success","evil",NA
+"264",38,"WillA","Good","Loss",7,"LfShWaX","MSSy","Xavier","Shruti","Sam","P","P","P",NA,NA,"success","evil",NA
+"265",38,"Sam","Evil","Win",7,"LfShWaX","MSSy","Xavier","Shruti","Sam","P","P","P",NA,NA,"success","evil",NA
+"266",38,"Shruti","Good","Loss",7,"LfShWaX","MSSy","Xavier","Shruti","Sam","P","P","P",NA,NA,"success","evil",NA
+"267",38,"LorenzoF","Good","Loss",7,"LfShWaX","MSSy","Xavier","Shruti","Sam","P","P","P",NA,NA,"success","evil",NA
+"268",38,"Xavier","Good","Loss",7,"LfShWaX","MSSy","Xavier","Shruti","Sam","P","P","P",NA,NA,"success","evil",NA
+"269",39,"Matt","Evil","Win",7,"LfShSyWa","MSX","LorenzoF","Shreyas","Xavier","P","F","F","P","F",NA,"evil",NA
+"270",39,"Shreyas","Good","Loss",7,"LfShSyWa","MSX","LorenzoF","Shreyas","Xavier","P","F","F","P","F",NA,"evil",NA
+"271",39,"WillA","Good","Loss",7,"LfShSyWa","MSX","LorenzoF","Shreyas","Xavier","P","F","F","P","F",NA,"evil",NA
+"272",39,"Sam","Evil","Win",7,"LfShSyWa","MSX","LorenzoF","Shreyas","Xavier","P","F","F","P","F",NA,"evil",NA
+"273",39,"Shruti","Good","Loss",7,"LfShSyWa","MSX","LorenzoF","Shreyas","Xavier","P","F","F","P","F",NA,"evil",NA
+"274",39,"LorenzoF","Good","Loss",7,"LfShSyWa","MSX","LorenzoF","Shreyas","Xavier","P","F","F","P","F",NA,"evil",NA
+"275",39,"Xavier","Evil","Win",7,"LfShSyWa","MSX","LorenzoF","Shreyas","Xavier","P","F","F","P","F",NA,"evil",NA
+"276",40,"Matt","Evil","Loss",7,"SShSyWa","LfMX","WillA","Sam","Xavier","P","P","F","F","P","fail","good",NA
+"277",40,"Shreyas","Good","Win",7,"SShSyWa","LfMX","WillA","Sam","Xavier","P","P","F","F","P","fail","good",NA
+"278",40,"WillA","Good","Win",7,"SShSyWa","LfMX","WillA","Sam","Xavier","P","P","F","F","P","fail","good",NA
+"279",40,"Sam","Good","Win",7,"SShSyWa","LfMX","WillA","Sam","Xavier","P","P","F","F","P","fail","good",NA
+"280",40,"Shruti","Good","Win",7,"SShSyWa","LfMX","WillA","Sam","Xavier","P","P","F","F","P","fail","good",NA
+"281",40,"LorenzoF","Evil","Loss",7,"SShSyWa","LfMX","WillA","Sam","Xavier","P","P","F","F","P","fail","good",NA
+"282",40,"Xavier","Evil","Loss",7,"SShSyWa","LfMX","WillA","Sam","Xavier","P","P","F","F","P","fail","good",NA
+"283",41,"Matt","Good","Win",7,"LfMShWa","HSX","LorenzoF","WillA","Sam","F","P","P","P",NA,"fail","good",NA
+"284",41,"Harrison","Evil","Loss",7,"LfMShWa","HSX","LorenzoF","WillA","Sam","F","P","P","P",NA,"fail","good",NA
+"285",41,"WillA","Good","Win",7,"LfMShWa","HSX","LorenzoF","WillA","Sam","F","P","P","P",NA,"fail","good",NA
+"286",41,"Sam","Evil","Loss",7,"LfMShWa","HSX","LorenzoF","WillA","Sam","F","P","P","P",NA,"fail","good",NA
+"287",41,"Shruti","Good","Win",7,"LfMShWa","HSX","LorenzoF","WillA","Sam","F","P","P","P",NA,"fail","good",NA
+"288",41,"LorenzoF","Good","Win",7,"LfMShWa","HSX","LorenzoF","WillA","Sam","F","P","P","P",NA,"fail","good",NA
+"289",41,"Xavier","Evil","Loss",7,"LfMShWa","HSX","LorenzoF","WillA","Sam","F","P","P","P",NA,"fail","good",NA
+"290",42,"Matt","Good","Win",8,"HMSShSy","LfWaX","Shreyas","Harrison","LorenzoF","P","F","P","P",NA,"fail","good",NA
+"291",42,"Harrison","Good","Win",8,"HMSShSy","LfWaX","Shreyas","Harrison","LorenzoF","P","F","P","P",NA,"fail","good",NA
+"292",42,"WillA","Evil","Loss",8,"HMSShSy","LfWaX","Shreyas","Harrison","LorenzoF","P","F","P","P",NA,"fail","good",NA
+"293",42,"Sam","Good","Win",8,"HMSShSy","LfWaX","Shreyas","Harrison","LorenzoF","P","F","P","P",NA,"fail","good",NA
+"294",42,"Shruti","Good","Win",8,"HMSShSy","LfWaX","Shreyas","Harrison","LorenzoF","P","F","P","P",NA,"fail","good",NA
+"295",42,"LorenzoF","Evil","Loss",8,"HMSShSy","LfWaX","Shreyas","Harrison","LorenzoF","P","F","P","P",NA,"fail","good",NA
+"296",42,"Xavier","Evil","Loss",8,"HMSShSy","LfWaX","Shreyas","Harrison","LorenzoF","P","F","P","P",NA,"fail","good",NA
+"297",42,"Shreyas","Good","Win",8,"HMSShSy","LfWaX","Shreyas","Harrison","LorenzoF","P","F","P","P",NA,"fail","good",NA
+"298",43,"Matt","Evil","Win",8,"HSShSyX","LfMWa","Xavier","Shruti","LorenzoF","F","P","P","P",NA,"success","evil",NA
+"299",43,"Harrison","Good","Loss",8,"HSShSyX","LfMWa","Xavier","Shruti","LorenzoF","F","P","P","P",NA,"success","evil",NA
+"300",43,"WillA","Evil","Win",8,"HSShSyX","LfMWa","Xavier","Shruti","LorenzoF","F","P","P","P",NA,"success","evil",NA
+"301",43,"Sam","Good","Loss",8,"HSShSyX","LfMWa","Xavier","Shruti","LorenzoF","F","P","P","P",NA,"success","evil",NA
+"302",43,"Shruti","Good","Loss",8,"HSShSyX","LfMWa","Xavier","Shruti","LorenzoF","F","P","P","P",NA,"success","evil",NA
+"303",43,"LorenzoF","Evil","Win",8,"HSShSyX","LfMWa","Xavier","Shruti","LorenzoF","F","P","P","P",NA,"success","evil",NA
+"304",43,"Xavier","Good","Loss",8,"HSShSyX","LfMWa","Xavier","Shruti","LorenzoF","F","P","P","P",NA,"success","evil",NA
+"305",43,"Shreyas","Good","Loss",8,"HSShSyX","LfMWa","Xavier","Shruti","LorenzoF","F","P","P","P",NA,"success","evil",NA
+"306",44,"Matt","Good","Loss",8,"LfMSyWaX","HSSh","LorenzoF","Matt","Sam","F","P","P","P",NA,"success","evil",NA
+"307",44,"Harrison","Evil","Win",8,"LfMSyWaX","HSSh","LorenzoF","Matt","Sam","F","P","P","P",NA,"success","evil",NA
+"308",44,"WillA","Good","Loss",8,"LfMSyWaX","HSSh","LorenzoF","Matt","Sam","F","P","P","P",NA,"success","evil",NA
+"309",44,"Sam","Evil","Win",8,"LfMSyWaX","HSSh","LorenzoF","Matt","Sam","F","P","P","P",NA,"success","evil",NA
+"310",44,"Shruti","Evil","Win",8,"LfMSyWaX","HSSh","LorenzoF","Matt","Sam","F","P","P","P",NA,"success","evil",NA
+"311",44,"LorenzoF","Good","Loss",8,"LfMSyWaX","HSSh","LorenzoF","Matt","Sam","F","P","P","P",NA,"success","evil",NA
+"312",44,"Xavier","Good","Loss",8,"LfMSyWaX","HSSh","LorenzoF","Matt","Sam","F","P","P","P",NA,"success","evil",NA
+"313",44,"Shreyas","Good","Loss",8,"LfMSyWaX","HSSh","LorenzoF","Matt","Sam","F","P","P","P",NA,"success","evil",NA
+"314",45,"Matt","Evil","Loss",8,"HShSyWaX","LfMS","Xavier","Harrison","Sam","P","F","F","P","P","fail","good",NA
+"315",45,"Harrison","Good","Win",8,"HShSyWaX","LfMS","Xavier","Harrison","Sam","P","F","F","P","P","fail","good",NA
+"316",45,"WillA","Good","Win",8,"HShSyWaX","LfMS","Xavier","Harrison","Sam","P","F","F","P","P","fail","good",NA
+"317",45,"Sam","Evil","Loss",8,"HShSyWaX","LfMS","Xavier","Harrison","Sam","P","F","F","P","P","fail","good",NA
+"318",45,"Shruti","Good","Win",8,"HShSyWaX","LfMS","Xavier","Harrison","Sam","P","F","F","P","P","fail","good",NA
+"319",45,"LorenzoF","Evil","Loss",8,"HShSyWaX","LfMS","Xavier","Harrison","Sam","P","F","F","P","P","fail","good",NA
+"320",45,"Xavier","Good","Win",8,"HShSyWaX","LfMS","Xavier","Harrison","Sam","P","F","F","P","P","fail","good",NA
+"321",45,"Shreyas","Good","Win",8,"HShSyWaX","LfMS","Xavier","Harrison","Sam","P","F","F","P","P","fail","good",NA
+"322",46,"Matt","Evil","Win",8,"HLfShWaX","MSSy","WillA","Harrison","Matt","P","F","P","P",NA,"success","evil",NA
+"323",46,"Harrison","Good","Loss",8,"HLfShWaX","MSSy","WillA","Harrison","Matt","P","F","P","P",NA,"success","evil",NA
+"324",46,"WillA","Good","Loss",8,"HLfShWaX","MSSy","WillA","Harrison","Matt","P","F","P","P",NA,"success","evil",NA
+"325",46,"Sam","Evil","Win",8,"HLfShWaX","MSSy","WillA","Harrison","Matt","P","F","P","P",NA,"success","evil",NA
+"326",46,"Shruti","Good","Loss",8,"HLfShWaX","MSSy","WillA","Harrison","Matt","P","F","P","P",NA,"success","evil",NA
+"327",46,"LorenzoF","Good","Loss",8,"HLfShWaX","MSSy","WillA","Harrison","Matt","P","F","P","P",NA,"success","evil",NA
+"328",46,"Xavier","Good","Loss",8,"HLfShWaX","MSSy","WillA","Harrison","Matt","P","F","P","P",NA,"success","evil",NA
+"329",46,"Shreyas","Evil","Win",8,"HLfShWaX","MSSy","WillA","Harrison","Matt","P","F","P","P",NA,"success","evil",NA
+"330",47,"Matt","Evil","Win",8,"HLfSWaX","MShSy","Harrison","Xavier","Shruti","F","F","P","P","P","success","evil",NA
+"331",47,"Harrison","Good","Loss",8,"HLfSWaX","MShSy","Harrison","Xavier","Shruti","F","F","P","P","P","success","evil",NA
+"332",47,"WillA","Good","Loss",8,"HLfSWaX","MShSy","Harrison","Xavier","Shruti","F","F","P","P","P","success","evil",NA
+"333",47,"Sam","Good","Loss",8,"HLfSWaX","MShSy","Harrison","Xavier","Shruti","F","F","P","P","P","success","evil",NA
+"334",47,"Shruti","Evil","Win",8,"HLfSWaX","MShSy","Harrison","Xavier","Shruti","F","F","P","P","P","success","evil",NA
+"335",47,"LorenzoF","Good","Loss",8,"HLfSWaX","MShSy","Harrison","Xavier","Shruti","F","F","P","P","P","success","evil",NA
+"336",47,"Xavier","Good","Loss",8,"HLfSWaX","MShSy","Harrison","Xavier","Shruti","F","F","P","P","P","success","evil",NA
+"337",47,"Shreyas","Evil","Win",8,"HLfSWaX","MShSy","Harrison","Xavier","Shruti","F","F","P","P","P","success","evil",NA
+"338",48,"Matt","Evil","Win",7,"HShSyX","LfMWa","Harrison","Shreyas","WillA","P","F","P","P",NA,"success","evil",NA
+"339",48,"Harrison","Good","Loss",7,"HShSyX","LfMWa","Harrison","Shreyas","WillA","P","F","P","P",NA,"success","evil",NA
+"340",48,"WillA","Evil","Win",7,"HShSyX","LfMWa","Harrison","Shreyas","WillA","P","F","P","P",NA,"success","evil",NA
+"341",48,"Shruti","Good","Loss",7,"HShSyX","LfMWa","Harrison","Shreyas","WillA","P","F","P","P",NA,"success","evil",NA
+"342",48,"LorenzoF","Evil","Win",7,"HShSyX","LfMWa","Harrison","Shreyas","WillA","P","F","P","P",NA,"success","evil",NA
+"343",48,"Xavier","Good","Loss",7,"HShSyX","LfMWa","Harrison","Shreyas","WillA","P","F","P","P",NA,"success","evil",NA
+"344",48,"Shreyas","Good","Loss",7,"HShSyX","LfMWa","Harrison","Shreyas","WillA","P","F","P","P",NA,"success","evil",NA
+"345",49,"Matt","Good","Win",7,"HLfMSh","SyWaX","LorenzoF","Harrison","Shreyas","P","F","P","F","P","fail","good",NA
+"346",49,"Harrison","Good","Win",7,"HLfMSh","SyWaX","LorenzoF","Harrison","Shreyas","P","F","P","F","P","fail","good",NA
+"347",49,"WillA","Evil","Loss",7,"HLfMSh","SyWaX","LorenzoF","Harrison","Shreyas","P","F","P","F","P","fail","good",NA
+"348",49,"Shruti","Good","Win",7,"HLfMSh","SyWaX","LorenzoF","Harrison","Shreyas","P","F","P","F","P","fail","good",NA
+"349",49,"LorenzoF","Good","Win",7,"HLfMSh","SyWaX","LorenzoF","Harrison","Shreyas","P","F","P","F","P","fail","good",NA
+"350",49,"Xavier","Evil","Loss",7,"HLfMSh","SyWaX","LorenzoF","Harrison","Shreyas","P","F","P","F","P","fail","good",NA
+"351",49,"Shreyas","Evil","Loss",7,"HLfMSh","SyWaX","LorenzoF","Harrison","Shreyas","P","F","P","F","P","fail","good",NA
+"352",50,"Matt","Good","Win",7,"HMShWa","LfSyX","Harrison","Shruti","LorenzoF","P","P","P",NA,NA,"fail","good",NA
+"353",50,"Harrison","Good","Win",7,"HMShWa","LfSyX","Harrison","Shruti","LorenzoF","P","P","P",NA,NA,"fail","good",NA
+"354",50,"WillA","Good","Win",7,"HMShWa","LfSyX","Harrison","Shruti","LorenzoF","P","P","P",NA,NA,"fail","good",NA
+"355",50,"Shruti","Good","Win",7,"HMShWa","LfSyX","Harrison","Shruti","LorenzoF","P","P","P",NA,NA,"fail","good",NA
+"356",50,"LorenzoF","Evil","Loss",7,"HMShWa","LfSyX","Harrison","Shruti","LorenzoF","P","P","P",NA,NA,"fail","good",NA
+"357",50,"Xavier","Evil","Loss",7,"HMShWa","LfSyX","Harrison","Shruti","LorenzoF","P","P","P",NA,NA,"fail","good",NA
+"358",50,"Shreyas","Evil","Loss",7,"HMShWa","LfSyX","Harrison","Shruti","LorenzoF","P","P","P",NA,NA,"fail","good",NA
+"359",51,"Matt","Good","Loss",7,"HLfMSh","SyWaX","Matt","Shruti","WillA","P","F","F","P","P","success","evil",NA
+"360",51,"Harrison","Good","Loss",7,"HLfMSh","SyWaX","Matt","Shruti","WillA","P","F","F","P","P","success","evil",NA
+"361",51,"WillA","Evil","Win",7,"HLfMSh","SyWaX","Matt","Shruti","WillA","P","F","F","P","P","success","evil",NA
+"362",51,"Shruti","Good","Loss",7,"HLfMSh","SyWaX","Matt","Shruti","WillA","P","F","F","P","P","success","evil",NA
+"363",51,"LorenzoF","Good","Loss",7,"HLfMSh","SyWaX","Matt","Shruti","WillA","P","F","F","P","P","success","evil",NA
+"364",51,"Xavier","Evil","Win",7,"HLfMSh","SyWaX","Matt","Shruti","WillA","P","F","F","P","P","success","evil",NA
+"365",51,"Shreyas","Evil","Win",7,"HLfMSh","SyWaX","Matt","Shruti","WillA","P","F","F","P","P","success","evil",NA
+"366",52,"Matt","Good","Win",7,"LfMWaX","HShSy","WillA","LorenzoF","Shreyas","F","P","P","P",NA,"fail","good",NA
+"367",52,"Harrison","Evil","Loss",7,"LfMWaX","HShSy","WillA","LorenzoF","Shreyas","F","P","P","P",NA,"fail","good",NA
+"368",52,"WillA","Good","Win",7,"LfMWaX","HShSy","WillA","LorenzoF","Shreyas","F","P","P","P",NA,"fail","good",NA
+"369",52,"Shruti","Evil","Loss",7,"LfMWaX","HShSy","WillA","LorenzoF","Shreyas","F","P","P","P",NA,"fail","good",NA
+"370",52,"LorenzoF","Good","Win",7,"LfMWaX","HShSy","WillA","LorenzoF","Shreyas","F","P","P","P",NA,"fail","good",NA
+"371",52,"Xavier","Good","Win",7,"LfMWaX","HShSy","WillA","LorenzoF","Shreyas","F","P","P","P",NA,"fail","good",NA
+"372",52,"Shreyas","Evil","Loss",7,"LfMWaX","HShSy","WillA","LorenzoF","Shreyas","F","P","P","P",NA,"fail","good",NA
+"373",53,"Matt","Good","Win",7,"HLfMSy","ShWaX","Shreyas","LorenzoF","WillA","P","F","P","P",NA,"fail","good",NA
+"374",53,"Harrison","Good","Win",7,"HLfMSy","ShWaX","Shreyas","LorenzoF","WillA","P","F","P","P",NA,"fail","good",NA
+"375",53,"WillA","Evil","Loss",7,"HLfMSy","ShWaX","Shreyas","LorenzoF","WillA","P","F","P","P",NA,"fail","good",NA
+"376",53,"Shruti","Evil","Loss",7,"HLfMSy","ShWaX","Shreyas","LorenzoF","WillA","P","F","P","P",NA,"fail","good",NA
+"377",53,"LorenzoF","Good","Win",7,"HLfMSy","ShWaX","Shreyas","LorenzoF","WillA","P","F","P","P",NA,"fail","good",NA
+"378",53,"Xavier","Evil","Loss",7,"HLfMSy","ShWaX","Shreyas","LorenzoF","WillA","P","F","P","P",NA,"fail","good",NA
+"379",53,"Shreyas","Good","Win",7,"HLfMSy","ShWaX","Shreyas","LorenzoF","WillA","P","F","P","P",NA,"fail","good",NA
+"380",54,"Matt","Evil","Loss",7,"ShSyWaX","HLfM","WillA","Shruti","Matt","P","F","P","P",NA,"fail","good",NA
+"381",54,"Harrison","Evil","Loss",7,"ShSyWaX","HLfM","WillA","Shruti","Matt","P","F","P","P",NA,"fail","good",NA
+"382",54,"WillA","Good","Win",7,"ShSyWaX","HLfM","WillA","Shruti","Matt","P","F","P","P",NA,"fail","good",NA
+"383",54,"Shruti","Good","Win",7,"ShSyWaX","HLfM","WillA","Shruti","Matt","P","F","P","P",NA,"fail","good",NA
+"384",54,"LorenzoF","Evil","Loss",7,"ShSyWaX","HLfM","WillA","Shruti","Matt","P","F","P","P",NA,"fail","good",NA
+"385",54,"Xavier","Good","Win",7,"ShSyWaX","HLfM","WillA","Shruti","Matt","P","F","P","P",NA,"fail","good",NA
+"386",54,"Shreyas","Good","Win",7,"ShSyWaX","HLfM","WillA","Shruti","Matt","P","F","P","P",NA,"fail","good",NA
+"387",55,"Matt","Evil","Win",7,"HLfSyWa","MShX","LorenzoF","WillA","Shruti","P","P","P",NA,NA,"success","evil","lmao xavier and i fucked up"
+"388",55,"Harrison","Good","Loss",7,"HLfSyWa","MShX","LorenzoF","WillA","Shruti","P","P","P",NA,NA,"success","evil","lmao xavier and i fucked up"
+"389",55,"WillA","Good","Loss",7,"HLfSyWa","MShX","LorenzoF","WillA","Shruti","P","P","P",NA,NA,"success","evil","lmao xavier and i fucked up"
+"390",55,"Shruti","Evil","Win",7,"HLfSyWa","MShX","LorenzoF","WillA","Shruti","P","P","P",NA,NA,"success","evil","lmao xavier and i fucked up"
+"391",55,"LorenzoF","Good","Loss",7,"HLfSyWa","MShX","LorenzoF","WillA","Shruti","P","P","P",NA,NA,"success","evil","lmao xavier and i fucked up"
+"392",55,"Xavier","Evil","Win",7,"HLfSyWa","MShX","LorenzoF","WillA","Shruti","P","P","P",NA,NA,"success","evil","lmao xavier and i fucked up"
+"393",55,"Shreyas","Good","Loss",7,"HLfSyWa","MShX","LorenzoF","WillA","Shruti","P","P","P",NA,NA,"success","evil","lmao xavier and i fucked up"
+"394",56,"Matt","Evil","Loss",7,"HShSyWaX","LfMX","Harrison","Shruti","Xavier","P","P","P",NA,NA,"fail","good",NA
+"395",56,"Harrison","Good","Win",7,"HShSyWaX","LfMX","Harrison","Shruti","Xavier","P","P","P",NA,NA,"fail","good",NA
+"396",56,"WillA","Good","Win",7,"HShSyWaX","LfMX","Harrison","Shruti","Xavier","P","P","P",NA,NA,"fail","good",NA
+"397",56,"Shruti","Good","Win",7,"HShSyWaX","LfMX","Harrison","Shruti","Xavier","P","P","P",NA,NA,"fail","good",NA
+"398",56,"LorenzoF","Evil","Loss",7,"HShSyWaX","LfMX","Harrison","Shruti","Xavier","P","P","P",NA,NA,"fail","good",NA
+"399",56,"Xavier","Evil","Loss",7,"HShSyWaX","LfMX","Harrison","Shruti","Xavier","P","P","P",NA,NA,"fail","good",NA
+"400",56,"Shreyas","Good","Win",7,"HShSyWaX","LfMX","Harrison","Shruti","Xavier","P","P","P",NA,NA,"fail","good",NA
+"401",57,"Matt","Good","Win",7,"HMShX","LfSyWa","Harrison","Xavier","LorenzoF","P","P","P",NA,NA,"fail","good",NA
+"402",57,"Harrison","Good","Win",7,"HMShX","LfSyWa","Harrison","Xavier","LorenzoF","P","P","P",NA,NA,"fail","good",NA
+"403",57,"WillA","Evil","Loss",7,"HMShX","LfSyWa","Harrison","Xavier","LorenzoF","P","P","P",NA,NA,"fail","good",NA
+"404",57,"Shruti","Good","Win",7,"HMShX","LfSyWa","Harrison","Xavier","LorenzoF","P","P","P",NA,NA,"fail","good",NA
+"405",57,"LorenzoF","Evil","Loss",7,"HMShX","LfSyWa","Harrison","Xavier","LorenzoF","P","P","P",NA,NA,"fail","good",NA
+"406",57,"Xavier","Good","Win",7,"HMShX","LfSyWa","Harrison","Xavier","LorenzoF","P","P","P",NA,NA,"fail","good",NA
+"407",57,"Shreyas","Evil","Loss",7,"HMShX","LfSyWa","Harrison","Xavier","LorenzoF","P","P","P",NA,NA,"fail","good",NA
+"408",58,"Matt","Evil","Win",7,"ShSyWaX","HLfM","Shreyas","WillA","Matt","P","F","F","P","P","success","evil",NA
+"409",58,"Harrison","Evil","Win",7,"ShSyWaX","HLfM","Shreyas","WillA","Matt","P","F","F","P","P","success","evil",NA
+"410",58,"WillA","Good","Loss",7,"ShSyWaX","HLfM","Shreyas","WillA","Matt","P","F","F","P","P","success","evil",NA
+"411",58,"Shruti","Good","Loss",7,"ShSyWaX","HLfM","Shreyas","WillA","Matt","P","F","F","P","P","success","evil",NA
+"412",58,"LorenzoF","Evil","Win",7,"ShSyWaX","HLfM","Shreyas","WillA","Matt","P","F","F","P","P","success","evil",NA
+"413",58,"Xavier","Good","Loss",7,"ShSyWaX","HLfM","Shreyas","WillA","Matt","P","F","F","P","P","success","evil",NA
+"414",58,"Shreyas","Good","Loss",7,"ShSyWaX","HLfM","Shreyas","WillA","Matt","P","F","F","P","P","success","evil",NA
+"415",59,"Matt","Good","Loss",6,"MSyWaX","LfSh","Xavier",NA,"n/a","P","P","F","F","F",NA,NA,NA
+"416",59,"WillA","Good","Loss",6,"MSyWaX","LfSh","Xavier",NA,"n/a","P","P","F","F","F",NA,NA,NA
+"417",59,"Shruti","Evil","Win",6,"MSyWaX","LfSh","Xavier",NA,"n/a","P","P","F","F","F",NA,NA,NA
+"418",59,"LorenzoF","Evil","Win",6,"MSyWaX","LfSh","Xavier",NA,"n/a","P","P","F","F","F",NA,NA,NA
+"419",59,"Xavier","Good","Loss",6,"MSyWaX","LfSh","Xavier",NA,"n/a","P","P","F","F","F",NA,NA,NA
+"420",59,"Shreyas","Good","Loss",6,"MSyWaX","LfSh","Xavier",NA,"n/a","P","P","F","F","F",NA,NA,NA
+"421",60,"Matt","Good","Loss",6,"MShWaX","LfSy","Matt",NA,"n/a","P","F","P","P",NA,"success","evil","double fail m2"
+"422",60,"WillA","Good","Loss",6,"MShWaX","LfSy","Matt",NA,"n/a","P","F","P","P",NA,"success","evil",NA
+"423",60,"Shruti","Good","Loss",6,"MShWaX","LfSy","Matt",NA,"n/a","P","F","P","P",NA,"success","evil",NA
+"424",60,"LorenzoF","Evil","Win",6,"MShWaX","LfSy","Matt",NA,"n/a","P","F","P","P",NA,"success","evil",NA
+"425",60,"Xavier","Good","Loss",6,"MShWaX","LfSy","Matt",NA,"n/a","P","F","P","P",NA,"success","evil",NA
+"426",60,"Shreyas","Evil","Win",6,"MShWaX","LfSy","Matt",NA,"n/a","P","F","P","P",NA,"success","evil",NA
+"427",61,"Matt","Good","Loss",6,"LfMShWa","SyX","Matt",NA,"n/a","P","F","F","P","P","success","evil",NA
+"428",61,"WillA","Good","Loss",6,"LfMShWa","SyX","Matt",NA,"n/a","P","F","F","P","P","success","evil",NA
+"429",61,"Shruti","Good","Loss",6,"LfMShWa","SyX","Matt",NA,"n/a","P","F","F","P","P","success","evil",NA
+"430",61,"LorenzoF","Good","Loss",6,"LfMShWa","SyX","Matt",NA,"n/a","P","F","F","P","P","success","evil",NA
+"431",61,"Xavier","Evil","Win",6,"LfMShWa","SyX","Matt",NA,"n/a","P","F","F","P","P","success","evil",NA
+"432",61,"Shreyas","Evil","Win",6,"LfMShWa","SyX","Matt",NA,"n/a","P","F","F","P","P","success","evil",NA
+"433",62,"Matt","Evil","Loss",6,"LfShSyWa","MX","LorenzoF",NA,"n/a","P","P","F","P",NA,"fail","good",NA
+"434",62,"WillA","Good","Win",6,"LfShSyWa","MX","LorenzoF",NA,"n/a","P","P","F","P",NA,"fail","good",NA
+"435",62,"Shruti","Good","Win",6,"LfShSyWa","MX","LorenzoF",NA,"n/a","P","P","F","P",NA,"fail","good",NA
+"436",62,"LorenzoF","Good","Win",6,"LfShSyWa","MX","LorenzoF",NA,"n/a","P","P","F","P",NA,"fail","good",NA
+"437",62,"Xavier","Evil","Loss",6,"LfShSyWa","MX","LorenzoF",NA,"n/a","P","P","F","P",NA,"fail","good",NA
+"438",62,"Shreyas","Good","Win",6,"LfShSyWa","MX","LorenzoF",NA,"n/a","P","P","F","P",NA,"fail","good",NA
+"439",63,"Matt","Good","Win",6,"LfMWaX","ShSy","Xavier",NA,"n/a","P","P","F","P",NA,"fail","good",NA
+"440",63,"WillA","Good","Win",6,"LfMWaX","ShSy","Xavier",NA,"n/a","P","P","F","P",NA,"fail","good",NA
+"441",63,"Shruti","Evil","Loss",6,"LfMWaX","ShSy","Xavier",NA,"n/a","P","P","F","P",NA,"fail","good",NA
+"442",63,"LorenzoF","Good","Win",6,"LfMWaX","ShSy","Xavier",NA,"n/a","P","P","F","P",NA,"fail","good",NA
+"443",63,"Xavier","Good","Win",6,"LfMWaX","ShSy","Xavier",NA,"n/a","P","P","F","P",NA,"fail","good",NA
+"444",63,"Shreyas","Evil","Loss",6,"LfMWaX","ShSy","Xavier",NA,"n/a","P","P","F","P",NA,"fail","good",NA
+"445",64,"Matt","Good","Loss",6,"LfMShSy","WaX","Shreyas",NA,"n/a","P","P","F","F","P","success","evil",NA
+"446",64,"WillA","Evil","Win",6,"LfMShSy","WaX","Shreyas",NA,"n/a","P","P","F","F","P","success","evil",NA
+"447",64,"Shruti","Good","Loss",6,"LfMShSy","WaX","Shreyas",NA,"n/a","P","P","F","F","P","success","evil",NA
+"448",64,"LorenzoF","Good","Loss",6,"LfMShSy","WaX","Shreyas",NA,"n/a","P","P","F","F","P","success","evil",NA
+"449",64,"Xavier","Evil","Win",6,"LfMShSy","WaX","Shreyas",NA,"n/a","P","P","F","F","P","success","evil",NA
+"450",64,"Shreyas","Good","Loss",6,"LfMShSy","WaX","Shreyas",NA,"n/a","P","P","F","F","P","success","evil",NA
+"451",65,"Matt","Evil","Win",6,"LfShWaX","MSy","Xavier",NA,"n/a","P","F","F","P","F",NA,"evil","proud of this one"
+"452",65,"WillA","Good","Loss",6,"LfShWaX","MSy","Xavier",NA,"n/a","P","F","F","P","F",NA,"evil","proud of this one"
+"453",65,"Shruti","Good","Loss",6,"LfShWaX","MSy","Xavier",NA,"n/a","P","F","F","P","F",NA,"evil","proud of this one"
+"454",65,"LorenzoF","Good","Loss",6,"LfShWaX","MSy","Xavier",NA,"n/a","P","F","F","P","F",NA,"evil","proud of this one"
+"455",65,"Xavier","Good","Loss",6,"LfShWaX","MSy","Xavier",NA,"n/a","P","F","F","P","F",NA,"evil","proud of this one"
+"456",65,"Shreyas","Evil","Win",6,"LfShWaX","MSy","Xavier",NA,"n/a","P","F","F","P","F",NA,"evil","proud of this one"
+"457",66,"Matt","Evil","Win",6,"LfShSyWa","MX","Shreyas",NA,"n/a","P","P","F","P",NA,"success","evil","we broke shruti"
+"458",66,"WillA","Good","Loss",6,"LfShSyWa","MX","Shreyas",NA,"n/a","P","P","F","P",NA,"success","evil","we broke shruti"
+"459",66,"Shruti","Good","Loss",6,"LfShSyWa","MX","Shreyas",NA,"n/a","P","P","F","P",NA,"success","evil","we broke shruti"
+"460",66,"LorenzoF","Good","Loss",6,"LfShSyWa","MX","Shreyas",NA,"n/a","P","P","F","P",NA,"success","evil","we broke shruti"
+"461",66,"Xavier","Evil","Win",6,"LfShSyWa","MX","Shreyas",NA,"n/a","P","P","F","P",NA,"success","evil","we broke shruti"
+"462",66,"Shreyas","Good","Loss",6,"LfShSyWa","MX","Shreyas",NA,"n/a","P","P","F","P",NA,"success","evil","we broke shruti"
+"463",67,"Matt","Good","Loss",6,"HMSyX","ShWa","Harrison",NA,"n/a","P","F","F","F",NA,NA,"evil",NA
+"464",67,"WillA","Evil","Win",6,"HMSyX","ShWa","Harrison",NA,"n/a","P","F","F","F",NA,NA,"evil",NA
+"465",67,"Shruti","Evil","Win",6,"HMSyX","ShWa","Harrison",NA,"n/a","P","F","F","F",NA,NA,"evil",NA
+"466",67,"Harrison","Good","Loss",6,"HMSyX","ShWa","Harrison",NA,"n/a","P","F","F","F",NA,NA,"evil",NA
+"467",67,"Xavier","Good","Loss",6,"HMSyX","ShWa","Harrison",NA,"n/a","P","F","F","F",NA,NA,"evil",NA
+"468",67,"Shreyas","Good","Loss",6,"HMSyX","ShWa","Harrison",NA,"n/a","P","F","F","F",NA,NA,"evil",NA
+"469",68,"Matt","Good","Win",6,"HMShSy","WaX","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"470",68,"WillA","Evil","Loss",6,"HMShSy","WaX","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"471",68,"Shruti","Good","Win",6,"HMShSy","WaX","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"472",68,"Harrison","Good","Win",6,"HMShSy","WaX","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"473",68,"Xavier","Evil","Loss",6,"HMShSy","WaX","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"474",68,"Shreyas","Good","Win",6,"HMShSy","WaX","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"475",69,"Matt","Good","Win",7,"JMShSy","HWaX","Shreyas","Shruti","WillA","P","P","P",NA,NA,"fail","good",NA
+"476",69,"WillA","Evil","Loss",7,"JMShSy","HWaX","Shreyas","Shruti","WillA","P","P","P",NA,NA,"fail","good",NA
+"477",69,"Shruti","Good","Win",7,"JMShSy","HWaX","Shreyas","Shruti","WillA","P","P","P",NA,NA,"fail","good",NA
+"478",69,"Harrison","Evil","Loss",7,"JMShSy","HWaX","Shreyas","Shruti","WillA","P","P","P",NA,NA,"fail","good",NA
+"479",69,"Xavier","Evil","Loss",7,"JMShSy","HWaX","Shreyas","Shruti","WillA","P","P","P",NA,NA,"fail","good",NA
+"480",69,"Shreyas","Good","Win",7,"JMShSy","HWaX","Shreyas","Shruti","WillA","P","P","P",NA,NA,"fail","good",NA
+"481",69,"Jenny","Good","Win",7,"JMShSy","HWaX","Shreyas","Shruti","WillA","P","P","P",NA,NA,"fail","good",NA
+"482",70,"Matt","Good","Loss",7,"HMWaX","JShSy","Harrison","WillA","Jenny","P","P","P",NA,NA,"success","evil",NA
+"483",70,"WillA","Good","Loss",7,"HMWaX","JShSy","Harrison","WillA","Jenny","P","P","P",NA,NA,"success","evil",NA
+"484",70,"Shruti","Evil","Win",7,"HMWaX","JShSy","Harrison","WillA","Jenny","P","P","P",NA,NA,"success","evil",NA
+"485",70,"Harrison","Good","Loss",7,"HMWaX","JShSy","Harrison","WillA","Jenny","P","P","P",NA,NA,"success","evil",NA
+"486",70,"Xavier","Good","Loss",7,"HMWaX","JShSy","Harrison","WillA","Jenny","P","P","P",NA,NA,"success","evil",NA
+"487",70,"Shreyas","Evil","Win",7,"HMWaX","JShSy","Harrison","WillA","Jenny","P","P","P",NA,NA,"success","evil",NA
+"488",70,"Jenny","Evil","Win",7,"HMWaX","JShSy","Harrison","WillA","Jenny","P","P","P",NA,NA,"success","evil",NA
+"489",71,"Matt","Evil","Loss",7,"HSyWaX","JMSh","Shreyas","Xavier","Jenny","P","F","F","P","P","fail","good",NA
+"490",71,"WillA","Good","Win",7,"HSyWaX","JMSh","Shreyas","Xavier","Jenny","P","F","F","P","P","fail","good",NA
+"491",71,"Shruti","Evil","Loss",7,"HSyWaX","JMSh","Shreyas","Xavier","Jenny","P","F","F","P","P","fail","good",NA
+"492",71,"Harrison","Good","Win",7,"HSyWaX","JMSh","Shreyas","Xavier","Jenny","P","F","F","P","P","fail","good",NA
+"493",71,"Xavier","Good","Win",7,"HSyWaX","JMSh","Shreyas","Xavier","Jenny","P","F","F","P","P","fail","good",NA
+"494",71,"Shreyas","Good","Win",7,"HSyWaX","JMSh","Shreyas","Xavier","Jenny","P","F","F","P","P","fail","good",NA
+"495",71,"Jenny","Evil","Loss",7,"HSyWaX","JMSh","Shreyas","Xavier","Jenny","P","F","F","P","P","fail","good",NA
+"496",72,"Matt","Evil","Win",8,"HJOzWaX","MShSy","Xavier","Harrison","Shruti","P","F","F","P","P","success","evil",NA
+"497",72,"WillA","Good","Loss",8,"HJOzWaX","MShSy","Xavier","Harrison","Shruti","P","F","F","P","P","success","evil",NA
+"498",72,"Shruti","Evil","Win",8,"HJOzWaX","MShSy","Xavier","Harrison","Shruti","P","F","F","P","P","success","evil",NA
+"499",72,"Harrison","Good","Loss",8,"HJOzWaX","MShSy","Xavier","Harrison","Shruti","P","F","F","P","P","success","evil",NA
+"500",72,"Xavier","Good","Loss",8,"HJOzWaX","MShSy","Xavier","Harrison","Shruti","P","F","F","P","P","success","evil",NA
+"501",72,"Shreyas","Evil","Win",8,"HJOzWaX","MShSy","Xavier","Harrison","Shruti","P","F","F","P","P","success","evil",NA
+"502",72,"Jenny","Good","Loss",8,"HJOzWaX","MShSy","Xavier","Harrison","Shruti","P","F","F","P","P","success","evil",NA
+"503",72,"Ozan","Good","Loss",8,"HJOzWaX","MShSy","Xavier","Harrison","Shruti","P","F","F","P","P","success","evil",NA
+"504",73,"Matt","Good","Loss",7,"HMShSy","OzWaX","Matt","Harrison","Ozan","P","F","F","P","P","success","evil",NA
+"505",73,"WillA","Evil","Win",7,"HMShSy","OzWaX","Matt","Harrison","Ozan","P","F","F","P","P","success","evil",NA
+"506",73,"Shruti","Good","Loss",7,"HMShSy","OzWaX","Matt","Harrison","Ozan","P","F","F","P","P","success","evil",NA
+"507",73,"Harrison","Good","Loss",7,"HMShSy","OzWaX","Matt","Harrison","Ozan","P","F","F","P","P","success","evil",NA
+"508",73,"Xavier","Evil","Win",7,"HMShSy","OzWaX","Matt","Harrison","Ozan","P","F","F","P","P","success","evil",NA
+"509",73,"Shreyas","Good","Loss",7,"HMShSy","OzWaX","Matt","Harrison","Ozan","P","F","F","P","P","success","evil",NA
+"510",73,"Ozan","Evil","Win",7,"HMShSy","OzWaX","Matt","Harrison","Ozan","P","F","F","P","P","success","evil",NA
+"511",74,"Matt","Good","Loss",7,"HMShWa","OzSyX","Harrison","Shruti","Xavier","P","F","F","F",NA,NA,"evil",NA
+"512",74,"WillA","Good","Loss",7,"HMShWa","OzSyX","Harrison","Shruti","Xavier","P","F","F","F",NA,NA,"evil",NA
+"513",74,"Shruti","Good","Loss",7,"HMShWa","OzSyX","Harrison","Shruti","Xavier","P","F","F","F",NA,NA,"evil",NA
+"514",74,"Harrison","Good","Loss",7,"HMShWa","OzSyX","Harrison","Shruti","Xavier","P","F","F","F",NA,NA,"evil",NA
+"515",74,"Xavier","Evil","Win",7,"HMShWa","OzSyX","Harrison","Shruti","Xavier","P","F","F","F",NA,NA,"evil",NA
+"516",74,"Shreyas","Evil","Win",7,"HMShWa","OzSyX","Harrison","Shruti","Xavier","P","F","F","F",NA,NA,"evil",NA
+"517",74,"Ozan","Evil","Win",7,"HMShWa","OzSyX","Harrison","Shruti","Xavier","P","F","F","F",NA,NA,"evil",NA
+"518",75,"Matt","Evil","Win",7,"HOzSyX","MShWa","Ozan","Xavier","WillA","F","P","F","P","P","success","evil",NA
+"519",75,"WillA","Evil","Win",7,"HOzSyX","MShWa","Ozan","Xavier","WillA","F","P","F","P","P","success","evil",NA
+"520",75,"Shruti","Evil","Win",7,"HOzSyX","MShWa","Ozan","Xavier","WillA","F","P","F","P","P","success","evil",NA
+"521",75,"Harrison","Good","Loss",7,"HOzSyX","MShWa","Ozan","Xavier","WillA","F","P","F","P","P","success","evil",NA
+"522",75,"Xavier","Good","Loss",7,"HOzSyX","MShWa","Ozan","Xavier","WillA","F","P","F","P","P","success","evil",NA
+"523",75,"Shreyas","Good","Loss",7,"HOzSyX","MShWa","Ozan","Xavier","WillA","F","P","F","P","P","success","evil",NA
+"524",75,"Ozan","Good","Loss",7,"HOzSyX","MShWa","Ozan","Xavier","WillA","F","P","F","P","P","success","evil",NA
+"525",76,"Matt","Evil","Loss",7,"OzSyWaX","HMSh","Shreyas","WillA","Harrison","P","F","P","P",NA,"fail","good",NA
+"526",76,"WillA","Good","Win",7,"OzSyWaX","HMSh","Shreyas","WillA","Harrison","P","F","P","P",NA,"fail","good",NA
+"527",76,"Shruti","Evil","Loss",7,"OzSyWaX","HMSh","Shreyas","WillA","Harrison","P","F","P","P",NA,"fail","good",NA
+"528",76,"Harrison","Evil","Loss",7,"OzSyWaX","HMSh","Shreyas","WillA","Harrison","P","F","P","P",NA,"fail","good",NA
+"529",76,"Xavier","Good","Win",7,"OzSyWaX","HMSh","Shreyas","WillA","Harrison","P","F","P","P",NA,"fail","good",NA
+"530",76,"Shreyas","Good","Win",7,"OzSyWaX","HMSh","Shreyas","WillA","Harrison","P","F","P","P",NA,"fail","good",NA
+"531",76,"Ozan","Good","Win",7,"OzSyWaX","HMSh","Shreyas","WillA","Harrison","P","F","P","P",NA,"fail","good",NA
+"532",77,"Matt","Good","Win",6,"LfMSSh","WaX","Shruti",NA,"n/a","P","F","F","P","P","fail","good",NA
+"533",77,"Shruti","Good","Win",6,"LfMSSh","WaX","Shruti",NA,"n/a","P","F","F","P","P","fail","good",NA
+"534",77,"LorenzoF","Good","Win",6,"LfMSSh","WaX","Shruti",NA,"n/a","P","F","F","P","P","fail","good",NA
+"535",77,"Xavier","Evil","Loss",6,"LfMSSh","WaX","Shruti",NA,"n/a","P","F","F","P","P","fail","good",NA
+"536",77,"Sam","Good","Win",6,"LfMSSh","WaX","Shruti",NA,"n/a","P","F","F","P","P","fail","good",NA
+"537",77,"WillA","Evil","Loss",6,"LfMSSh","WaX","Shruti",NA,"n/a","P","F","F","P","P","fail","good",NA
+"538",78,"Matt","Evil","Win",7,"LfSShSy","MWaX","Shreyas","Shruti","Xavier","P","F","F","P","P","success","evil",NA
+"539",78,"Shruti","Good","Loss",7,"LfSShSy","MWaX","Shreyas","Shruti","Xavier","P","F","F","P","P","success","evil",NA
+"540",78,"LorenzoF","Good","Loss",7,"LfSShSy","MWaX","Shreyas","Shruti","Xavier","P","F","F","P","P","success","evil",NA
+"541",78,"Xavier","Evil","Win",7,"LfSShSy","MWaX","Shreyas","Shruti","Xavier","P","F","F","P","P","success","evil",NA
+"542",78,"Sam","Good","Loss",7,"LfSShSy","MWaX","Shreyas","Shruti","Xavier","P","F","F","P","P","success","evil",NA
+"543",78,"WillA","Evil","Win",7,"LfSShSy","MWaX","Shreyas","Shruti","Xavier","P","F","F","P","P","success","evil",NA
+"544",78,"Shreyas","Good","Loss",7,"LfSShSy","MWaX","Shreyas","Shruti","Xavier","P","F","F","P","P","success","evil",NA
+"545",79,"Matt","Evil","Win",7,"SShSyWa","LfMX","Sam","Shruti","LorenzoF","P","F","F","P","P","success","evil",NA
+"546",79,"Shruti","Good","Loss",7,"SShSyWa","LfMX","Sam","Shruti","LorenzoF","P","F","F","P","P","success","evil",NA
+"547",79,"LorenzoF","Evil","Win",7,"SShSyWa","LfMX","Sam","Shruti","LorenzoF","P","F","F","P","P","success","evil",NA
+"548",79,"Xavier","Evil","Win",7,"SShSyWa","LfMX","Sam","Shruti","LorenzoF","P","F","F","P","P","success","evil",NA
+"549",79,"Sam","Good","Loss",7,"SShSyWa","LfMX","Sam","Shruti","LorenzoF","P","F","F","P","P","success","evil",NA
+"550",79,"WillA","Good","Loss",7,"SShSyWa","LfMX","Sam","Shruti","LorenzoF","P","F","F","P","P","success","evil",NA
+"551",79,"Shreyas","Good","Loss",7,"SShSyWa","LfMX","Sam","Shruti","LorenzoF","P","F","F","P","P","success","evil",NA
+"552",80,"Matt","Good","Loss",7,"MOzShWa","SSyX","Matt","Shruti","Shreyas","P","F","F","P","P","success","evil",NA
+"553",80,"Shruti","Good","Loss",7,"MOzShWa","SSyX","Matt","Shruti","Shreyas","P","F","F","P","P","success","evil",NA
+"554",80,"Ozan","Good","Loss",7,"MOzShWa","SSyX","Matt","Shruti","Shreyas","P","F","F","P","P","success","evil",NA
+"555",80,"Xavier","Evil","Win",7,"MOzShWa","SSyX","Matt","Shruti","Shreyas","P","F","F","P","P","success","evil",NA
+"556",80,"Sam","Evil","Win",7,"MOzShWa","SSyX","Matt","Shruti","Shreyas","P","F","F","P","P","success","evil",NA
+"557",80,"WillA","Good","Loss",7,"MOzShWa","SSyX","Matt","Shruti","Shreyas","P","F","F","P","P","success","evil",NA
+"558",80,"Shreyas","Evil","Win",7,"MOzShWa","SSyX","Matt","Shruti","Shreyas","P","F","F","P","P","success","evil",NA
+"559",81,"Matt","Good","Win",6,"MOzShSy","WaX","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"560",81,"Shruti","Good","Win",6,"MOzShSy","WaX","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"561",81,"Ozan","Good","Win",6,"MOzShSy","WaX","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"562",81,"Xavier","Evil","Loss",6,"MOzShSy","WaX","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"563",81,"WillA","Evil","Loss",6,"MOzShSy","WaX","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"564",81,"Shreyas","Good","Win",6,"MOzShSy","WaX","Matt",NA,"n/a","P","F","F","P","P","fail","good",NA
+"565",82,"Matt","Evil","Loss",7,"ShSyWaX","MOsOz","Shreyas","Shruti","Osmond","P","F","P","P",NA,"fail","good",NA
+"566",82,"Shruti","Good","Win",7,"ShSyWaX","MOsOz","Shreyas","Shruti","Osmond","P","F","P","P",NA,"fail","good",NA
+"567",82,"Ozan","Evil","Loss",7,"ShSyWaX","MOsOz","Shreyas","Shruti","Osmond","P","F","P","P",NA,"fail","good",NA
+"568",82,"Xavier","Good","Win",7,"ShSyWaX","MOsOz","Shreyas","Shruti","Osmond","P","F","P","P",NA,"fail","good",NA
+"569",82,"WillA","Good","Win",7,"ShSyWaX","MOsOz","Shreyas","Shruti","Osmond","P","F","P","P",NA,"fail","good",NA
+"570",82,"Shreyas","Good","Win",7,"ShSyWaX","MOsOz","Shreyas","Shruti","Osmond","P","F","P","P",NA,"fail","good",NA
+"571",82,"Osmond","Evil","Loss",7,"ShSyWaX","MOsOz","Shreyas","Shruti","Osmond","P","F","P","P",NA,"fail","good",NA
+"572",83,"Matt","Good","Win",7,"MOsShWa","OzSyX","Shruti","WillA","Xavier","P","P","P",NA,NA,"fail","good",NA
+"573",83,"Shruti","Good","Win",7,"MOsShWa","OzSyX","Shruti","WillA","Xavier","P","P","P",NA,NA,"fail","good",NA
+"574",83,"Ozan","Evil","Loss",7,"MOsShWa","OzSyX","Shruti","WillA","Xavier","P","P","P",NA,NA,"fail","good",NA
+"575",83,"Xavier","Evil","Loss",7,"MOsShWa","OzSyX","Shruti","WillA","Xavier","P","P","P",NA,NA,"fail","good",NA
+"576",83,"WillA","Good","Win",7,"MOsShWa","OzSyX","Shruti","WillA","Xavier","P","P","P",NA,NA,"fail","good",NA
+"577",83,"Shreyas","Evil","Loss",7,"MOsShWa","OzSyX","Shruti","WillA","Xavier","P","P","P",NA,NA,"fail","good",NA
+"578",83,"Osmond","Good","Win",7,"MOsShWa","OzSyX","Shruti","WillA","Xavier","P","P","P",NA,NA,"fail","good",NA
+"579",84,"Matt","Evil","Win",7,"OzShWaX","MSyX","WillA","Ozan","Matt","P","F","F","P","P","success","evil","ozzy percival declared m2"
+"580",84,"Shruti","Good","Loss",7,"OzShWaX","MSyX","WillA","Ozan","Matt","P","F","F","P","P","success","evil","ozzy percival declared m3"
+"581",84,"Ozan","Good","Loss",7,"OzShWaX","MSyX","WillA","Ozan","Matt","P","F","F","P","P","success","evil","ozzy percival declared m4"
+"582",84,"Xavier","Evil","Win",7,"OzShWaX","MSyX","WillA","Ozan","Matt","P","F","F","P","P","success","evil","ozzy percival declared m5"
+"583",84,"WillA","Good","Loss",7,"OzShWaX","MSyX","WillA","Ozan","Matt","P","F","F","P","P","success","evil","ozzy percival declared m6"
+"584",84,"Shreyas","Evil","Win",7,"OzShWaX","MSyX","WillA","Ozan","Matt","P","F","F","P","P","success","evil","ozzy percival declared m7"
+"585",84,"Osmond","Good","Loss",7,"OzShWaX","MSyX","WillA","Ozan","Matt","P","F","F","P","P","success","evil","ozzy percival declared m8"
+"586",85,"Matt","Good","Win",7,"MOzSyWa","OsShX","WillA","Ozan","Osmond","P","F","P","P",NA,"fail","good","ozzy percival declared m2"
+"587",85,"Shruti","Evil","Loss",7,"MOzSyWa","OsShX","WillA","Ozan","Osmond","P","F","P","P",NA,"fail","good","ozzy percival declared m3"
+"588",85,"Ozan","Good","Win",7,"MOzSyWa","OsShX","WillA","Ozan","Osmond","P","F","P","P",NA,"fail","good","ozzy percival declared m4"
+"589",85,"Xavier","Evil","Loss",7,"MOzSyWa","OsShX","WillA","Ozan","Osmond","P","F","P","P",NA,"fail","good","ozzy percival declared m5"
+"590",85,"WillA","Good","Win",7,"MOzSyWa","OsShX","WillA","Ozan","Osmond","P","F","P","P",NA,"fail","good","ozzy percival declared m6"
+"591",85,"Shreyas","Good","Win",7,"MOzSyWa","OsShX","WillA","Ozan","Osmond","P","F","P","P",NA,"fail","good","ozzy percival declared m7"
+"592",85,"Osmond","Evil","Loss",7,"MOzSyWa","OsShX","WillA","Ozan","Osmond","P","F","P","P",NA,"fail","good","ozzy percival declared m8"
+"593",86,"Matt","Good","Loss",7,"MOsOzX","ShSyWa","Osmond","Matt","Shreyas","P","F","F","P","F",NA,"evil","matt is stupid"
+"594",86,"Shruti","Evil","Win",7,"MOsOzX","ShSyWa","Osmond","Matt","Shreyas","P","F","F","P","F",NA,"evil","matt is stupid"
+"595",86,"Ozan","Good","Loss",7,"MOsOzX","ShSyWa","Osmond","Matt","Shreyas","P","F","F","P","F",NA,"evil","matt is stupid"
+"596",86,"Xavier","Good","Loss",7,"MOsOzX","ShSyWa","Osmond","Matt","Shreyas","P","F","F","P","F",NA,"evil","matt is stupid"
+"597",86,"WillA","Evil","Win",7,"MOsOzX","ShSyWa","Osmond","Matt","Shreyas","P","F","F","P","F",NA,"evil","matt is stupid"
+"598",86,"Shreyas","Evil","Win",7,"MOsOzX","ShSyWa","Osmond","Matt","Shreyas","P","F","F","P","F",NA,"evil","matt is stupid"
+"599",86,"Osmond","Good","Loss",7,"MOsOzX","ShSyWa","Osmond","Matt","Shreyas","P","F","F","P","F",NA,"evil","matt is stupid"
+"600",87,"Matt","Evil","Win",7,"ShTWaX","LfMS","Tejal","Shruti","Matt","P","F","P","P",NA,"success","evil",NA
+"601",87,"Shruti","Good","Loss",7,"ShTWaX","LfMS","Tejal","Shruti","Matt","P","F","P","P",NA,"success","evil",NA
+"602",87,"WillA","Good","Loss",7,"ShTWaX","LfMS","Tejal","Shruti","Matt","P","F","P","P",NA,"success","evil",NA
+"603",87,"Sam","Evil","Win",7,"ShTWaX","LfMS","Tejal","Shruti","Matt","P","F","P","P",NA,"success","evil",NA
+"604",87,"LorenzoF","Evil","Win",7,"ShTWaX","LfMS","Tejal","Shruti","Matt","P","F","P","P",NA,"success","evil",NA
+"605",87,"Xavier","Good","Loss",7,"ShTWaX","LfMS","Tejal","Shruti","Matt","P","F","P","P",NA,"success","evil",NA
+"606",87,"Tejal","Good","Loss",7,"ShTWaX","LfMS","Tejal","Shruti","Matt","P","F","P","P",NA,"success","evil",NA
+"607",88,"Matt","Good","Win",7,"MShTWa","LfSX","Tejal","Matt","Xavier","P","P","F","P",NA,"fail","good",NA
+"608",88,"Shruti","Good","Win",7,"MShTWa","LfSX","Tejal","Matt","Xavier","P","P","F","P",NA,"fail","good",NA
+"609",88,"WillA","Good","Win",7,"MShTWa","LfSX","Tejal","Matt","Xavier","P","P","F","P",NA,"fail","good",NA
+"610",88,"Sam","Evil","Loss",7,"MShTWa","LfSX","Tejal","Matt","Xavier","P","P","F","P",NA,"fail","good",NA
+"611",88,"LorenzoF","Evil","Loss",7,"MShTWa","LfSX","Tejal","Matt","Xavier","P","P","F","P",NA,"fail","good",NA
+"612",88,"Xavier","Evil","Loss",7,"MShTWa","LfSX","Tejal","Matt","Xavier","P","P","F","P",NA,"fail","good",NA
+"613",88,"Tejal","Good","Win",7,"MShTWa","LfSX","Tejal","Matt","Xavier","P","P","F","P",NA,"fail","good",NA
+"614",89,"Matt","Good","Loss",7,"MSTWa","LfShX","WillA","Matt","Xavier","P","F","F","P","P","success","evil",NA
+"615",89,"Shruti","Evil","Win",7,"MSTWa","LfShX","WillA","Matt","Xavier","P","F","F","P","P","success","evil",NA
+"616",89,"WillA","Good","Loss",7,"MSTWa","LfShX","WillA","Matt","Xavier","P","F","F","P","P","success","evil",NA
+"617",89,"Sam","Good","Loss",7,"MSTWa","LfShX","WillA","Matt","Xavier","P","F","F","P","P","success","evil",NA
+"618",89,"LorenzoF","Evil","Win",7,"MSTWa","LfShX","WillA","Matt","Xavier","P","F","F","P","P","success","evil",NA
+"619",89,"Xavier","Evil","Win",7,"MSTWa","LfShX","WillA","Matt","Xavier","P","F","F","P","P","success","evil",NA
+"620",89,"Tejal","Good","Loss",7,"MSTWa","LfShX","WillA","Matt","Xavier","P","F","F","P","P","success","evil",NA
+"621",90,"Matt","Evil","Win",7,"LfShTX","MSWa","Tejal","Xavier","Matt","P","F","F","P","F",NA,"evil","i fooled xavier"
+"622",90,"Shruti","Good","Loss",7,"LfShTX","MSWa","Tejal","Xavier","Matt","P","F","F","P","F",NA,"evil","i fooled xavier"
+"623",90,"WillA","Evil","Win",7,"LfShTX","MSWa","Tejal","Xavier","Matt","P","F","F","P","F",NA,"evil","i fooled xavier"
+"624",90,"Sam","Evil","Win",7,"LfShTX","MSWa","Tejal","Xavier","Matt","P","F","F","P","F",NA,"evil","i fooled xavier"
+"625",90,"LorenzoF","Good","Loss",7,"LfShTX","MSWa","Tejal","Xavier","Matt","P","F","F","P","F",NA,"evil","i fooled xavier"
+"626",90,"Xavier","Good","Loss",7,"LfShTX","MSWa","Tejal","Xavier","Matt","P","F","F","P","F",NA,"evil","i fooled xavier"
+"627",90,"Tejal","Good","Loss",7,"LfShTX","MSWa","Tejal","Xavier","Matt","P","F","F","P","F",NA,"evil","i fooled xavier"
+"628",91,"Matt","Evil","Win",7,"LfShTX","MSWa","Shruti","LorenzoF","Sam","P","F","F","F",NA,NA,"evil","sam fooled lorenzo"
+"629",91,"Shruti","Good","Loss",7,"LfShTX","MSWa","Shruti","LorenzoF","Sam","P","F","F","F",NA,NA,"evil","sam fooled lorenzo"
+"630",91,"WillA","Evil","Win",7,"LfShTX","MSWa","Shruti","LorenzoF","Sam","P","F","F","F",NA,NA,"evil","sam fooled lorenzo"
+"631",91,"Sam","Evil","Win",7,"LfShTX","MSWa","Shruti","LorenzoF","Sam","P","F","F","F",NA,NA,"evil","sam fooled lorenzo"
+"632",91,"LorenzoF","Good","Loss",7,"LfShTX","MSWa","Shruti","LorenzoF","Sam","P","F","F","F",NA,NA,"evil","sam fooled lorenzo"
+"633",91,"Xavier","Good","Loss",7,"LfShTX","MSWa","Shruti","LorenzoF","Sam","P","F","F","F",NA,NA,"evil","sam fooled lorenzo"
+"634",91,"Tejal","Good","Loss",7,"LfShTX","MSWa","Shruti","LorenzoF","Sam","P","F","F","F",NA,NA,"evil","sam fooled lorenzo"
+"635",92,"Matt","Evil","Loss",7,"LfShTX","MSWa","Tejal","Xavier","WillA","P","F","P","P",NA,"fail","good",NA
+"636",92,"Shruti","Good","Win",7,"LfShTX","MSWa","Tejal","Xavier","WillA","P","F","P","P",NA,"fail","good",NA
+"637",92,"WillA","Evil","Loss",7,"LfShTX","MSWa","Tejal","Xavier","WillA","P","F","P","P",NA,"fail","good",NA
+"638",92,"Sam","Evil","Loss",7,"LfShTX","MSWa","Tejal","Xavier","WillA","P","F","P","P",NA,"fail","good",NA
+"639",92,"LorenzoF","Good","Win",7,"LfShTX","MSWa","Tejal","Xavier","WillA","P","F","P","P",NA,"fail","good",NA
+"640",92,"Xavier","Good","Win",7,"LfShTX","MSWa","Tejal","Xavier","WillA","P","F","P","P",NA,"fail","good",NA
+"641",92,"Tejal","Good","Win",7,"LfShTX","MSWa","Tejal","Xavier","WillA","P","F","P","P",NA,"fail","good",NA
+"642",93,"Matt","Good","Loss",7,"LfMShT","SWaX","LorenzoF","Matt","WillA","P","F","P","F","F",NA,"evil","i got tricked"
+"643",93,"Shruti","Good","Loss",7,"LfMShT","SWaX","LorenzoF","Matt","WillA","P","F","P","F","F",NA,"evil","i got tricked"
+"644",93,"WillA","Evil","Win",7,"LfMShT","SWaX","LorenzoF","Matt","WillA","P","F","P","F","F",NA,"evil","i got tricked"
+"645",93,"Sam","Evil","Win",7,"LfMShT","SWaX","LorenzoF","Matt","WillA","P","F","P","F","F",NA,"evil","i got tricked"
+"646",93,"LorenzoF","Good","Loss",7,"LfMShT","SWaX","LorenzoF","Matt","WillA","P","F","P","F","F",NA,"evil","i got tricked"
+"647",93,"Xavier","Evil","Win",7,"LfMShT","SWaX","LorenzoF","Matt","WillA","P","F","P","F","F",NA,"evil","i got tricked"
+"648",93,"Tejal","Good","Loss",7,"LfMShT","SWaX","LorenzoF","Matt","WillA","P","F","P","F","F",NA,"evil","i got tricked"
+"649",94,"Matt","Evil","Win",7,"LfTWaX","MSSh","LorenzoF","Tejal","Shruti","P","F","F","P","F",NA,"evil",NA
+"650",94,"Shruti","Evil","Win",7,"LfTWaX","MSSh","LorenzoF","Tejal","Shruti","P","F","F","P","F",NA,"evil",NA
+"651",94,"WillA","Good","Loss",7,"LfTWaX","MSSh","LorenzoF","Tejal","Shruti","P","F","F","P","F",NA,"evil",NA
+"652",94,"Sam","Evil","Win",7,"LfTWaX","MSSh","LorenzoF","Tejal","Shruti","P","F","F","P","F",NA,"evil",NA
+"653",94,"LorenzoF","Good","Loss",7,"LfTWaX","MSSh","LorenzoF","Tejal","Shruti","P","F","F","P","F",NA,"evil",NA
+"654",94,"Xavier","Good","Loss",7,"LfTWaX","MSSh","LorenzoF","Tejal","Shruti","P","F","F","P","F",NA,"evil",NA
+"655",94,"Tejal","Good","Loss",7,"LfTWaX","MSSh","LorenzoF","Tejal","Shruti","P","F","F","P","F",NA,"evil",NA
+"656",95,"Matt","Good","Loss",8,"MSSyTWa","LfShX","Sam","WillA","Xavier","F","F","P","P","P","success","evil",NA
+"657",95,"Shruti","Evil","Win",8,"MSSyTWa","LfShX","Sam","WillA","Xavier","F","F","P","P","P","success","evil",NA
+"658",95,"WillA","Good","Loss",8,"MSSyTWa","LfShX","Sam","WillA","Xavier","F","F","P","P","P","success","evil",NA
+"659",95,"Sam","Good","Loss",8,"MSSyTWa","LfShX","Sam","WillA","Xavier","F","F","P","P","P","success","evil",NA
+"660",95,"LorenzoF","Evil","Win",8,"MSSyTWa","LfShX","Sam","WillA","Xavier","F","F","P","P","P","success","evil",NA
+"661",95,"Xavier","Evil","Win",8,"MSSyTWa","LfShX","Sam","WillA","Xavier","F","F","P","P","P","success","evil",NA
+"662",95,"Tejal","Good","Loss",8,"MSSyTWa","LfShX","Sam","WillA","Xavier","F","F","P","P","P","success","evil",NA
+"663",95,"Shreyas","Good","Loss",8,"MSSyTWa","LfShX","Sam","WillA","Xavier","F","F","P","P","P","success","evil",NA
+"664",96,"Matt","Good","Loss",8,"LfMShTWa","SSyX","Shruti","LorenzoF","Xavier","F","P","P","P",NA,"success","evil",NA
+"665",96,"Shruti","Good","Loss",8,"LfMShTWa","SSyX","Shruti","LorenzoF","Xavier","F","P","P","P",NA,"success","evil",NA
+"666",96,"WillA","Good","Loss",8,"LfMShTWa","SSyX","Shruti","LorenzoF","Xavier","F","P","P","P",NA,"success","evil",NA
+"667",96,"Sam","Evil","Win",8,"LfMShTWa","SSyX","Shruti","LorenzoF","Xavier","F","P","P","P",NA,"success","evil",NA
+"668",96,"LorenzoF","Good","Loss",8,"LfMShTWa","SSyX","Shruti","LorenzoF","Xavier","F","P","P","P",NA,"success","evil",NA
+"669",96,"Xavier","Evil","Win",8,"LfMShTWa","SSyX","Shruti","LorenzoF","Xavier","F","P","P","P",NA,"success","evil",NA
+"670",96,"Tejal","Good","Loss",8,"LfMShTWa","SSyX","Shruti","LorenzoF","Xavier","F","P","P","P",NA,"success","evil",NA
+"671",96,"Shreyas","Evil","Win",8,"LfMShTWa","SSyX","Shruti","LorenzoF","Xavier","F","P","P","P",NA,"success","evil",NA
+"672",97,"Matt","Good","Loss",7,"MShSyX","LfOzWa","Shreyas","Xavier","WillA","P","F","F","F",NA,NA,"evil",NA
+"673",97,"Shruti","Good","Loss",7,"MShSyX","LfOzWa","Shreyas","Xavier","WillA","P","F","F","F",NA,NA,"evil",NA
+"674",97,"WillA","Evil","Win",7,"MShSyX","LfOzWa","Shreyas","Xavier","WillA","P","F","F","F",NA,NA,"evil",NA
+"675",97,"LorenzoF","Evil","Win",7,"MShSyX","LfOzWa","Shreyas","Xavier","WillA","P","F","F","F",NA,NA,"evil",NA
+"676",97,"Xavier","Good","Loss",7,"MShSyX","LfOzWa","Shreyas","Xavier","WillA","P","F","F","F",NA,NA,"evil",NA
+"677",97,"Shreyas","Good","Loss",7,"MShSyX","LfOzWa","Shreyas","Xavier","WillA","P","F","F","F",NA,NA,"evil",NA
+"678",97,"Ozan","Evil","Win",7,"MShSyX","LfOzWa","Shreyas","Xavier","WillA","P","F","F","F",NA,NA,"evil",NA
+"679",98,"Matt","Good","Loss",7,"MOzSyWa","LfShX","Ozan","Shreyas","Xavier","P","F","F","P","P","success","evil",NA
+"680",98,"Shruti","Evil","Win",7,"MOzSyWa","LfShX","Ozan","Shreyas","Xavier","P","F","F","P","P","success","evil",NA
+"681",98,"WillA","Good","Loss",7,"MOzSyWa","LfShX","Ozan","Shreyas","Xavier","P","F","F","P","P","success","evil",NA
+"682",98,"LorenzoF","Evil","Win",7,"MOzSyWa","LfShX","Ozan","Shreyas","Xavier","P","F","F","P","P","success","evil",NA
+"683",98,"Xavier","Evil","Win",7,"MOzSyWa","LfShX","Ozan","Shreyas","Xavier","P","F","F","P","P","success","evil",NA
+"684",98,"Shreyas","Good","Loss",7,"MOzSyWa","LfShX","Ozan","Shreyas","Xavier","P","F","F","P","P","success","evil",NA
+"685",98,"Ozan","Good","Loss",7,"MOzSyWa","LfShX","Ozan","Shreyas","Xavier","P","F","F","P","P","success","evil",NA
+"686",99,"Matt","Evil","Win",7,"LfSyWaX","MOzSh","LorenzoF","Shreyas","Ozan","P","F","F","P","P","success","evil",NA
+"687",99,"Shruti","Evil","Win",7,"LfSyWaX","MOzSh","LorenzoF","Shreyas","Ozan","P","F","F","P","P","success","evil",NA
+"688",99,"WillA","Good","Loss",7,"LfSyWaX","MOzSh","LorenzoF","Shreyas","Ozan","P","F","F","P","P","success","evil",NA
+"689",99,"LorenzoF","Good","Loss",7,"LfSyWaX","MOzSh","LorenzoF","Shreyas","Ozan","P","F","F","P","P","success","evil",NA
+"690",99,"Xavier","Good","Loss",7,"LfSyWaX","MOzSh","LorenzoF","Shreyas","Ozan","P","F","F","P","P","success","evil",NA
+"691",99,"Shreyas","Good","Loss",7,"LfSyWaX","MOzSh","LorenzoF","Shreyas","Ozan","P","F","F","P","P","success","evil",NA
+"692",99,"Ozan","Evil","Win",7,"LfSyWaX","MOzSh","LorenzoF","Shreyas","Ozan","P","F","F","P","P","success","evil",NA
+"693",100,"Matt","Evil","Win",7,"LfOzShWa","MSyX","Ozan","WillA","Shreyas","P","F","P","P",NA,"success","evil",NA
+"694",100,"Shruti","Good","Loss",7,"LfOzShWa","MSyX","Ozan","WillA","Shreyas","P","F","P","P",NA,"success","evil",NA
+"695",100,"WillA","Good","Loss",7,"LfOzShWa","MSyX","Ozan","WillA","Shreyas","P","F","P","P",NA,"success","evil",NA
+"696",100,"LorenzoF","Good","Loss",7,"LfOzShWa","MSyX","Ozan","WillA","Shreyas","P","F","P","P",NA,"success","evil",NA
+"697",100,"Xavier","Evil","Win",7,"LfOzShWa","MSyX","Ozan","WillA","Shreyas","P","F","P","P",NA,"success","evil",NA
+"698",100,"Shreyas","Evil","Win",7,"LfOzShWa","MSyX","Ozan","WillA","Shreyas","P","F","P","P",NA,"success","evil",NA
+"699",100,"Ozan","Good","Loss",7,"LfOzShWa","MSyX","Ozan","WillA","Shreyas","P","F","P","P",NA,"success","evil",NA
